@@ -102,7 +102,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 
 ## DSTT/DSTTi
 - [Official website](http://www.ndstt.net/)
-- [YSMenu Kernal](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/raw/master/DSTTi%20TT%20YSMenu%207.06.rar)
+- [YSMenu Kernel](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/raw/master/DSTTi%20TT%20YSMenu%207.06.rar)
 - DSi compatible: No
 - [GBATemp Review](https://gbatemp.net/threads/dstt-review.69748/)
 - [Buy on nds-card.com](https://nds-card.com/ProShow.asp?ProID=157)
@@ -256,7 +256,6 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 ## SuperCard DSTWO
 - [Official website](http://eng.supercard.sc/manual/dstwo/)
 - [System files](http://filetrip.net/g35130066-Supercard-DSTWO-EOS.html)
-- Official plugins: [Media Player](http://filetrip.net/f22636-Supercard-DSTWO-iPlayer-Plugin-1-0.html), [GBA Emulator](http://filetrip.net/f21962-Supercard-DSTWO-GBA-Emulator-1-3.html), [SNES Emulator](http://filetrip.net/g35131424-CATSFC.html), [Document Viewer](http://filetrip.net/f21988-DSTwo-iReader-1-1-%281025%29.html)
 - DSi compatible: Yes
 - [GBATemp Review](https://gbatemp.net/threads/supercard-dstwo-review.232281/)
 - [Another GBATemp (with EOS 1.08) Review](https://gbatemp.net/threads/supercard-dstwo-w-eos-v1-08-review.270748/#post-3341837)
@@ -304,7 +303,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 
 ## DS Fire 2
 - [Official website](http://dsfire2.com) ([Archive](http://web.archive.org/web/20110129103557/http://www.dsfire2.com/))
-- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19403-DSFire2_v1.0_English.rar?raw=true)
+- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19403-DSFire2_v1.0_English.rar?raw=true)
 - [Buy on dwtechz.com](http://www.dwtechz.com/ds-fire-2-p-217.html)
 - Acekard 2i clone
 
@@ -360,11 +359,12 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 - [Official website](http://www.ge.ndsi.in/)
 - System files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/259261-GEiv4.2_EN.zip?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/GEiv4.2_ZH.zip?raw=true)]
 - Clone of the R4
+- Can autoboot into TWiLight Menu++.
 
 ## Gold R4i (r4ids.com)
 ## Hyper R4i
 - [Official Website](http://hyper4i.com)
-- [English System Files]()
+- System Files: [English]()
 
 ## iSmart Premium
 - [Official website](http://ismartds.com) ([Archive](http://web.archive.org/web/20150924230036/http://ismartds.com/))
@@ -395,10 +395,10 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 
 ## M3i Upgrade/M3L Upgrade
 - [Official website](http://m3iupgrade.com/)
-- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19507-m3iupgrade_M3i_v1.45_English.rar?raw=true)
+- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19507-m3iupgrade_M3i_v1.45_English.rar?raw=true)
 
 ## MARS
-- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19586-MARS_v1.03_English.zip?raw=true)
+- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19586-MARS_v1.03_English.zip?raw=true)
 - Clone of the R4DS
 
 ## Max Media Player
@@ -448,7 +448,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 
 ## R4 3DS Upgrade SDHC Dual-Core RTS (2016)
 - [Official website](http://r4-usas.com/) ([Archive](https://web.archive.org/web/20161008142809/http://www.r4-usas.com/))
-- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-V3.9b%20English.rar?raw=true) (Using any other FW will not work)
+- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-V3.9b%20English.rar?raw=true) (Using any other FW will not work)
 
 ## R4 Advance
 
@@ -590,7 +590,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 
 ## R4i II
 - [Official website](http://www.r4i-sdhc.com.hk) (discontinued)
-- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21103-R4i-II_v1.09b_English.rar?raw=true)
+- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21103-R4i-II_v1.09b_English.rar?raw=true)
 
 ## R4i NDSiXL 3D
 
@@ -631,7 +631,7 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 
 ## R4i SDHC (r4i-sdhc.com.au)
 - [Official website](http://www.r4i-sdhc.com.au/) (discontinued)
-- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21693-R4iSDHC.com.au_v2.12c_English.rar?raw=true)
+- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21693-R4iSDHC.com.au_v2.12c_English.rar?raw=true)
 
 ## R4i SDHC (r4isdhc.com)
 - [Official website](http://www.r4isdhc.com/) (discontinued)
@@ -672,11 +672,11 @@ Just place the file `update.evo` on the root directory of your MicroSD card. The
 
 ## Super R4i
 - [Official website](http://www.super4i.com/)
-- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21785-SuperR4i_v1.20_English.zip?raw=true)
+- System files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21785-SuperR4i_v1.20_English.zip?raw=true)
 
 ## TTi Upgrade
 - [Official website](http://www.nds-tti.com/) (discontinued)
-- [English System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/8967-TTi%2520eng%2520V1.19%5B1%5D.rar?raw=true)
+- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/8967-TTi%2520eng%2520V1.19%5B1%5D.rar?raw=true)
 - Clone of the DSTT
 
 ## U2DS

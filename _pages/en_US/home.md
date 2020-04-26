@@ -46,5 +46,5 @@ By following our guide, you will have the most up to date setup for enhancing yo
 - Some kernels may have what's called a Time Bomb. You could use YSMenu to work around that when the time comes.
 - Some flashcarts can only launch homebrew. You can use Bootstrap 4 DS (which comes with TWiLight Menu++) to work around that.
 
-Get started by [selecting your kernel](installing-unlaunch).
+Get started by [selecting your kernel](setup).
 {: .notice--info}
