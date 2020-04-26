@@ -57,3 +57,12 @@ The way to access the TWiLight Menu++ settings varies between your configuration
 - Acekard theme: Go out of the file browser (hit B a bunch), then scroll to find and launch the Settings Applet
 
 From there, you will get a few options of things you could do.
+
+- **Themes** - There are 6 different themes included with TWiLight Menu++. You can also hit A for sub themes, taken from your SD card. 
+  - Nintendo DSi: Made to mimick the Nintendo DSi System Menu. Uses a pagination system, where there is a new page every 20 files. You can use the bottom scrollbar to navigate quickly through the current page, or hit the triggers to go back a page or forward a page.
+    - You can set `.png` images to display on the top screen. If you have multiple images, it will select which to use at random. Just make sure to use tinypng to reduce the file size and have the image size be no bigger than 208x156.
+  - Nintendo 3DS: Made to mimick the Nintendo 3DS Home Menu. Uses the same pagination system as DSi theme, but without the bottom bar.
+  - SEGA Saturn: Only allows for one entry at a time. Particularly space like. Does not have any sub-theme support. 
+  - Homebrew Launcher: Mimicks the 3DS Homebrew Launcher & Wii Homebrew Channel. Implements the bubble effect on the bottom screen.
+  - R4 Original: Mimicks the original UI of the original R4 Firmware. Subthemes must use either `A1 R5 G5 B5` or `X1 R5 G5 B5` BMP images.
+  - Acekard: Ported the UI from Wood RPG. Subthemes are cross-compatible

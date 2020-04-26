@@ -61,8 +61,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NightYoshi370/mm-github-pages-starter"
     - label: "Credits"
-      icon: "fab fa-fw fa-users"
-      url: "/credits"
+      icon: "fas fa-fw fa-users"
+      url: "credits"
 
 category_archive:
   type: liquid
