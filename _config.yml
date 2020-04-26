@@ -74,7 +74,13 @@ defaults:
       author_profile: false
       sidebar: false
   - scope:
-      path: "_pages/en_US/home.md"
+      path: "_pages/"
+      type: pages
+    values:
+      permalink: /:basename:output_ext
+      lang: en
+  - scope:
+      path: "_pages/home.md"
       type: pages
     values:
       permalink: /index:output_ext
