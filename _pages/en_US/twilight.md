@@ -33,7 +33,7 @@ These flashcarts are able to boot Nintendo DS ROMs using their flashcart kernel 
 
 #### CycloDS iEvolution
 
-This flashcart is able to use the Nintendo DSi version of nds-bootstrap as opposed to B4DS.
+This flashcart is able to use the Nintendo DSi version of nds-bootstrap as opposed to B4DS. This has access to the features that B4DS doesn't, such as soft-reset not shutting down the console, cheats & full access to the 16 MB of RAM.
 
 - Extract `BOOT_cyclodsi.nds`, rename it to `BOOT.NDS` and place it at the root of your SD card.
 
@@ -58,6 +58,11 @@ The way to access the TWiLight Menu++ settings varies between your configuration
 
 From there, you will get a few options of things you could do.
 
+#### GUI Settings
+- **DS Classic Menu on startup** - This option will enable the DS Classic Menu to appear on startup (explanation below).
+- **DSi/Saturn: SELECT** - This option changes the functionality of what hitting the SELECT button does in the Nintendo DSi, SEGA Saturn and Homebrew Launcher themes.
+  - DS Classic Menu: This menu is similar to the user interface of the original Nintendo DS. While not full-scale for a theme, it's made for quick and easy access. Has shortcuts to Pictochat and Nintendo DS Download Play. It will take longer than using the SELECT Menu, since it is an entirely separate application.
+  - SELECT Menu: This menu is embedded in the theme, so it will load much quicker. The downside is that there is no shortcut to Pictochat and DS Download Play.
 - **Themes** - There are 6 different themes included with TWiLight Menu++. You can also hit A for sub themes, taken from your SD card. 
   - Nintendo DSi: Made to mimick the Nintendo DSi System Menu. Uses a pagination system, where there is a new page every 20 files. You can use the bottom scrollbar to navigate quickly through the current page, or hit the triggers to go back a page or forward a page.
     - You can set `.png` images to display on the top screen. If you have multiple images, it will select which to use at random. Just make sure to use tinypng to reduce the file size and have the image size be no bigger than 208x156.
@@ -65,4 +70,38 @@ From there, you will get a few options of things you could do.
   - SEGA Saturn: Only allows for one entry at a time. Particularly space like. Does not have any sub-theme support. 
   - Homebrew Launcher: Mimicks the 3DS Homebrew Launcher & Wii Homebrew Channel. Implements the bubble effect on the bottom screen.
   - R4 Original: Mimicks the original UI of the original R4 Firmware. Subthemes must use either `A1 R5 G5 B5` or `X1 R5 G5 B5` BMP images.
-  - Acekard: Ported the UI from Wood RPG. Subthemes are cross-compatible
+  - Acekard: Ported the UI from Wood RPG. Subthemes are cross-compatible with the original Wood RPG or Wood R4.
+- **DSi/3DS Music** - Changes the music played for the Nintendo DSi, Nintendo 3DS & Homebrew Launcher themes. Options should be self-explanatory.
+- **Update Recently Played list** - Updates a list used for the "Last Played" sort option. Disable this, if launching a game or app causes a Guru Meditation Error.
+- **Sort Method** - Changes the order that the applications are viewed in, for the Nintendo DSi, Nintendo 3DS, SEGA Saturn and Homebrew Launcher themes.
+- **Directories/Folders** - Toggles showing folders in the UI.
+- **Show hidden files** - Toggles showing hidden files in the UI.
+ - Files are hidden via FAT attributes (Windows/MacOS) or if they have a period in front of it (Unix).
+ - Regardless of the toggle above, the `_nds` folder will never be shown.
+- **Show box art** - Show's the box art of the item highlighted on the top screen.
+ - This only works on the Nintendo DSi, Nintendo 3DS & SEGA Saturn themes.
+ - Place the PNG images in `/_nds/TWiLightMenu/boxart`
+ - The images can be titled either the game's title ID (ex. `ASME.png`, DS Games only) or the filename (ex. `SM64DS.nds.png`).
+ - You can use [TWiLight Menu++ Boxart Downloader](https://github.com/KirovAir/TwilightBoxart) to download the images for you.
+ - If you'd like to make your own, follow these file sizes:
+
+```
+NDS/DSi: 128x115
+GBA/FDS/GBC/GB: 115x115
+NES/GEN/MD/SFC/MS/GG: 84x115
+SNES: 158x115
+```
+
+- **Animate DSi icons** - Animates the Nintendo DSi icons in the UI.
+- **Clock System** - Switch between the 12 hour (AM/PM) system and the 24 hour system in the Acekard theme
+- **Scroll speed** - Sets the scroll speed of the Acekard theme.
+
+#### Emulation/HB settings
+
+This page is for the individual loaders that TWiLight Menu++ uses.
+
+- **NDS ROMs** - This is launched using nds-bootstrap/B4DS or your flashcart kernel. Not recommended to use B4DS unless absolutely necessary.
+- **Video Files** - These are `.rvid` and `.mp4` videos, using RocketVideoPlayer and MPEG4Player. We recommend converting your videos to Moonshell, instead.
+- **Atari 2600 ROMs** - These are launched using StellaDS.
+- **NES/FDS ROMs** - These are launched using nesDS
+- **GameBoy (Color) ROMs** - These are launched using GameYob.
