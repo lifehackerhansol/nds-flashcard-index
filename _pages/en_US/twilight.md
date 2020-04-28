@@ -105,3 +105,36 @@ This page is for the individual loaders that TWiLight Menu++ uses.
 - **Atari 2600 ROMs** - These are launched using StellaDS.
 - **NES/FDS ROMs** - These are launched using nesDS
 - **GameBoy (Color) ROMs** - These are launched using GameYob.
+- **Sega Master System/Game Gear ROMs** - These are launched using S8DS.
+- **Sega Mega Drive/Genesis ROMs** - You have two options: PicoDriveTWL & jEnesisDS. We recommend using jEnesisDS
+  - PicoDriveTWL: No audio, choppy framerate, but has a higher filesize limit if you use a DS Memory Pak. Otherwise, if you **don't** have a Memory Pak, it has a 2.5 MB filesize limit.
+  - jEnesisDS: Audio, smooth framerate but has a 3 MB filesize limit that is not extendable with a DS Memory Pak.
+- **Super NES/FDS ROMs** - These ROMs are launched using SNEmulDS.
+
+#### GBARunner2 Settings
+
+GBARunner2 is a Gameboy Advance hypervisor for the Nintendo DS. It allows you to run Gameboy Advance ROMs from your DS Flashcart, without the need of a GBA Flashcart.
+
+{% capture notice-1 %}
+In order to use GBARunner2, you will need to have a Gameboy Advance BIOS file titled `bios.bin`. While you can place it on the root or the `/gba` folder, we recommend placing it in `/_gba`, next to where the configuration file is stored.
+
+In order to verify that you have a valid BIOS, we have added a few hashes you can compare your file towards. You only need to check one of these hashes, but MD5 is the most common and can be done [through a website too](http://onlinemd5.com/).
+
+**CRC32**: `81977335`
+**MD5**: `a860e8c0b6d573d191e4ec7db1b1e4f6`
+**SHA1**: `300c20df6731a33952ded8c436f7f186d25d3492`
+**SHA256**: `fd2547724b505f487e6dcb29ec2ecff3af35a841a77ab2e85fd87350abd36570`
+
+There are three ways you can dump a BIOS:
+
+- [A homebrew'd non-family edition Wii/GameCube with a link cable](https://github.com/FIX94/gba-link-cable-dumper)
+- [GBA/DS (Phat + Lite) with a GBA Flashcard](https://glazedbelmont.github.io/gbabiosdump/#gameboy-advance-sp-micro-ds-ds-lite)
+- [CFW'd 3DS using most Virtual Console Titles](https://glazedbelmont.github.io/gbabiosdump/#virtual-console-title-from-a-3ds) (can't be GBA or non-nintendo).
+{% endcapture %}
+
+<div class="notice">{{ notice-1 | markdownify }}</div>
+
+- **(Slot-1 SD:) DLDI access** - Set which ARM processor should handle DLDI. Recommended one is ARM9 but use ARM7 if your flashcart is incompatible
+- **Screen Display** - Pick which screen to display the gameboy advance application in.
+- **Center and Mask** - Centers the game with a border, at the cost of a frame delay.
+- **Simulate GBA colors** - Stimulates GBA colors by darkening the screen
