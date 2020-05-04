@@ -3,7 +3,7 @@ layout: splash
 title: DS Flashcart Guide
 header:
   overlay_color: "#1a1d24"
-  overlay_image: /assets/images/home-page-feature.png
+  overlay_image: /assets/images/home.png
   overlay_filter: 0.5
   caption:
 excerpt: "The complete guide to setting up your Nintendo DS flashcart."
