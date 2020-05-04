@@ -120,14 +120,14 @@ In order to use GBARunner2, you will need to have a Gameboy Advance BIOS file ti
 
 In order to verify that you have a valid BIOS, we have added a few hashes you can compare your file towards. You only need to check one of these hashes, but MD5 is the most common and can be done [through a website too](http://onlinemd5.com/).
 
-**CRC32**: `81977335`
-**MD5**: `a860e8c0b6d573d191e4ec7db1b1e4f6`
-**SHA1**: `300c20df6731a33952ded8c436f7f186d25d3492`
-**SHA256**: `fd2547724b505f487e6dcb29ec2ecff3af35a841a77ab2e85fd87350abd36570`
+- **CRC32**: `81977335`
+- **MD5**: `a860e8c0b6d573d191e4ec7db1b1e4f6`
+- **SHA1**: `300c20df6731a33952ded8c436f7f186d25d3492`
+- **SHA256**: `fd2547724b505f487e6dcb29ec2ecff3af35a841a77ab2e85fd87350abd36570`
 
 There are three ways you can dump a BIOS:
 
-- [A homebrew'd non-family edition Wii/GameCube with a link cable](https://github.com/FIX94/gba-link-cable-dumper)
+- [A homebrew'd non-family edition Wii/GameCube with a link cable + GBA](https://github.com/FIX94/gba-link-cable-dumper)
 - [GBA/DS (Phat + Lite) with a GBA Flashcard](https://glazedbelmont.github.io/gbabiosdump/#gameboy-advance-sp-micro-ds-ds-lite)
 - [CFW'd 3DS using most Virtual Console Titles](https://glazedbelmont.github.io/gbabiosdump/#virtual-console-title-from-a-3ds) (can't be GBA or non-nintendo).
 {% endcapture %}
