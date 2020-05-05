@@ -39,6 +39,7 @@ By following our guide, you will have the most up to date setup for enhancing yo
 ## What should I know before starting?
 
 - There is literally no way to brick a flashcard unless you modify your firmware (which we won't be covering in this tutorial).
+- Excluding Flashme (which only works on DS Phat/Lite), there is no homebrew that could brick your Nintendo DS.
 - If your flashcart boots into "An error has occured", the prefered way to fix it would be to install custom firmware on your console.
   - [Nintendo 3DS CFW Guide](https://3ds.hacks.guide)
   - [Nintendo DSi CFW Guide](https://dsi.cfw.guide) (make sure to use Unlaunch's SLOT-1 launcher to launch the card)

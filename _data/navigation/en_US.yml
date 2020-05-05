@@ -1,0 +1,21 @@
+---
+main:
+  -
+    title: SD card Setup
+    url: sd-prep
+bottom:
+  -
+    title: If you need help, ask the <a href="https://discord.gg/yD3spjv">DS⁽ⁱ⁾ Mode Hacking!</a> Discord server.
+footer:
+  -
+    label: Source
+    url: https://github.com/cfw-guide/flashcart.cfw.guide
+    icon: fab fa-fw fa-github
+  -
+    label: Site Navigation
+    url: site-navigation
+    icon: fas fa-fw fa-globe
+  -
+    label: Credits & Donations
+    url: credits
+    icon: fas fa-fw fa-users
