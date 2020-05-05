@@ -1,8 +1,8 @@
 ---
-title: TimeBombs
+title: Time Bombs
 ---
 
-A time bomb is essentially a piece of code in the kernel (not firmware) that some (most notably in the R4 lineup) flashcards uses that acts as an expiration date for that card. This concept is in place to force people to buy another flashcart whenever they are met with the "expiration" screen (as past that date, the kernel will no longer work).
+A time bomb is an expiration date for the flashcart kernel. It's a tactic used by flashcart manufacturers to force people to buy another flashcart when they see the "expiration" screen. This can be found in most flashcarts where they have a year in the name (such as `R4i SDHC Dual-Core 2018`).
 
 ## Instructions
 ### Section I - Determining whether you have one.
@@ -11,9 +11,14 @@ A time bomb is essentially a piece of code in the kernel (not firmware) that som
 2. Set your date to the latest value possible.
 3. Launch the flashcart.
 
-If it shows an expired screen, you have a timebomb on your hands. There are two ways to work around this:
+If it shows an expired screen, you have a flashcart where the kernel has a time bomb.
 
-- Setting back the date. This will break any game that uses your system clock.
-- Switching to an alternative kernel. This is what we will be doing here. You have two options available for an alternative game loader.
-  - [TWiLight Menu++](twilight) with B4DS -- This is useful for that all-in-one menu concept that we setup for emulators before, but you might need a Memory Expansion Pak in order to use it.
-  - [YSmenu](https://gbatemp.net/threads/retrogamefan-updates-releases.267243/) -- The menu is quite ugly and only displays `.nds` files, but it has far better game support and does not require a Memory Expansion Pak.
+### Section II - Working around it
+Luckily though, it does not set a flag anywhere and it's only in the kernel and not the flashcart firmware. This gives us two options to work around the time bomb.
+- Since it relies on the system clock, you could set back the date. This will break any game that uses your system clock, but it will allow you to use the current kernel.
+- Since it relies on the kernel and not the firmware, you could switch to an alternative kernel. There are two options available:
+  - [YSmenu](https://gbatemp.net/threads/retrogamefan-updates-releases.267243/) -- The menu is quite ugly and only displays `.nds` files, but it has far better game support, cheat support and no memory pak requirement.
+  - [TWiLight Menu++](twilight) with B4DS -- This is useful if you'd like to have all your ROMs in the same menu that you could launch NES, GBA and other console titles too. However, it does require a Memory Expansion Pak for extended game compatibility and does not support cheats.
+
+We recommend YSMenu due to the higher compatibility, cheats and lack of need for a Memory Expansion Pak. If you want to setup YSMenu, DeadSkullzJr has made a [Dropbox repo](https://www.dropbox.com/sh/egadrhxj8gimu5t/AACv2KqWmeXEHkxoYRluobxha?dl=0) with all the primary boot kernels set up for your flashcart. All it requires is a drag and drop to your SD card root and you have completed.
+  - You could still lanuch into TWiLight Menu++ for an all-in-one menu for emulators, but you can't launch into YSMenu from TWiLight Menu++.
