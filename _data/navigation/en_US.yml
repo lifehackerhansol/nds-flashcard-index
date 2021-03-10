@@ -3,9 +3,9 @@ main:
   -
     title: SD card Setup
     url: sd-prep
-bottom:
-  -
-    title: If you need help, ask the <a href="https://discord.gg/yD3spjv">DS⁽ⁱ⁾ Mode Hacking!</a> Discord server.
+# bottom:
+#   -
+#     title: If you need help, ask the <a href="https://discord.gg/yD3spjv">DS⁽ⁱ⁾ Mode Hacking!</a> Discord server.
 footer:
   -
     label: Source
