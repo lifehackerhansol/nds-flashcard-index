@@ -18,17 +18,13 @@ Once you've grabbed your System Files, go to [the TWiLight Menu++ setup page](tw
 - Keep in mind that every R4 card (except for the original) is indeed a clone/fake, and [that (almost) all R4i-SDHC/R4iSDHC carts are the same.](https://gbatemp.net/threads/proof-that-almost-all-r4i-sdhc-r4isdhc-carts-are-literally-the-same-carts.514539/)
 
 # Ace3DS
-## Ace3DS Plus
+## Ace3DS Plus (Ace3DS X)
 - [Official Website](http://www.ace3ds.com/)
 - DSi/3DS Compatible: Yes
-- Reviews: [GBAtemp](https://gbatemp.net/threads/ace3ds-plus-review.331160/)
+- [System Files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/Ace3DS+%20(X)/Ace3DS+%20(X)%20Wood%20R4%201.62.zip?raw=true)
+- Reviews: [GBAtemp](https://gbatemp.net/threads/ace3ds-plus-review.331160/), [GBAtemp (Ace3DS X)](https://gbatemp.net/review/ace3dsx.667/)
 - Purchase: [digitopz.com](https://www.digitopz.com/buy-ace3ds-plus-flashcart-for-ninetendo-2ds-dsl-dsi-3dsxl-ll-p-1170.html), [mod3dscards.com](https://www.mod3dscard.com/home/8-ace3ds-plus-cheapest-r4-card.html), [r4wood.com](https://www.r4wood.com/en/home/25-ace3ds-plus-cheap-card-new-3ds-2ds-dsi-ds.html)
-- NTRBoot compatible
-
-## Ace3DS X
-- Reviews: [Jessie Ljunggren](https://gbatemp.net/review/ace3dsx.667/), [el_ssbb_boy](https://gbatemp.net/threads/review-ace3ds-x.487871/), [Zaphod77](https://gbatemp.net/threads/ace3ds-x-review.488210/)
-- Purchase: [royal3ds.com](http://www.royal3ds.com/ace3ds-x-flashcart-supports-ds-mode-and-3ds-modewith-boot9strap-ntrboot-18.html), [stargate3ds.org](http://stargate3ds.org/home/24-ace3ds-x.html), [mod3dscards.com](https://www.mod3dscard.com/home/9-ace3ds-x-best-ntrboot-flashcard.html)
-- NTRBoot Compatible
+- NTRBoot compatible (Ace3DS X has a hardware switch to enable NTRBoot)
 
 # Acekard
 This manufacturer is no longer around. You will no longer get official support from the Acekard team.
