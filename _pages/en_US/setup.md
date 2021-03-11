@@ -7,6 +7,9 @@ title: Flashcard Firmwares
 If your flashcard does not have a website link on its front sticker, you will need to find your files in [Identifying Flashcard without Website](setup-nolink) instead.
 {: .notice--danger}
 
+If the System File listed is YSMenu, you will need to follow the guide for installing [YSMenu](ysmenu).
+{: .notice--info}
+
 This page will attempt to provide a comprehensive guide to which firmware, kernel or system files you need to download for your flashcard.
 We prioritize updated operating systems over the official and unsupported ones. For example, we would rather direct users to Wood R4 rather than the original R4 system files which haven't been updated for years.
 
@@ -75,14 +78,17 @@ This manufacturer is no longer around. You will no longer get official support f
 - Reviews: [GBAtemp](https://gbatemp.net/threads/dstt-review.69748/)
 - Purchase: [nds-card.com](https://nds-card.com/ProShow.asp?ProID=157), <!-- [r43ds.org](https://www.r43ds.org/products/DSTT-Card.html) , --> [digitopz.com (DSTT)](http://www.digitopz.com/dstt-top-toy-ds-p-20.html), [digitopz.com DSTTi](http://www.digitopz.com/dstti-for-dsi-ds-support-sdhc-p-17.html)
 - Only models with [certain flash chips](https://gist.github.com/yuukieve/6b48f1bb8dd15136403c15c39fafdb42) are compatible with ntrboot
+- System files: [YSMenu](ysmenu)
 
 ## DSTT Advance (dstt-adv.com)
 - [Official Website](http://web.archive.org/web/20121014090312/http://www.dstt-adv.com/)
 - This is a fake/clone card
+- System files: [YSMenu](ysmenu)
 
 ## DSTTi Gold (ndstti.cn)
 - [Official Website](http://web.archive.org/web/20111216144004/http://www.ndstti.cn/)
 - This is a fake/clone card
+- System files: [YSMenu](ysmenu)
 
 # EZ-Flash (ezflash.cn)
 
@@ -164,14 +170,6 @@ The following are clones of the M3 cards.
 ## R4 Advance
 
 ## R4 Deluxe
-
-## R4 DS
-- [Official website](http://www.r4ds.com/)
-- [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/R4%20(original),%20M3%20Simply/R4DS%20Wood%20R4%201.62.zip?raw=true)
-- DSi/3DS compatible: No
-- Reviews: [GBAtemp](https://gbatemp.net/threads/r4-ds-review.41279/), [DSDatabase](http://dsdatabase.org/showthread.php/563-R4DS)
-- Purchase links: <!-- [r43ds.org](https://www.r43ds.org/products/R4-DS-Card.html), -->[r4ds-ds.com](http://www.r4ds-ds.com/products/R4-DS-Revolution-MicroSD-TF-Slot-1-Solution-Adapter-p-120.html), [digitopz.com](http://www.digitopz.com/original-r4-ds-r4ds-solution-for-nintendo-ds-lite-p-1.html)
-- This card is no longer officially supported
 
 ## R4 DSi XL
 
@@ -395,22 +393,7 @@ The following are clones of the M3 cards.
 - Kernel: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/HyperR4i_v1.58.rar?raw=true)
 - Firmware: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/HyperR4i_F1.4_firmware.rar?raw=true)
 
-# Supercard
-## SuperCard DSONE (v3)
-- [Official website](http://eng.supercard.sc/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23501-DSONE%20SDHC%20Evolution%20V1.0%20eng%20sp6.rar?raw=true)
-- Comparisons: [Supercard DSONE (v3) vs iTouch2 (GBAtemp)](https://gbatemp.net/threads/itouch2-vs-supercard-dsonei-review.165422/)
-- Reviews: [GBAtemp](https://gbatemp.net/threads/supercard-ds-one-v3.88932/), [DSTemp](https://gbatemp.net/threads/my-supercard-ds-one-v3-review.98140/#post-1309500), DSDatabase Review: \[[v1](http://dsdatabase.org/showthread.php/565-Supercard-DS-ONE-V1)/[v2](http://dsdatabase.org/showthread.php/556-Supercard-DS-ONE-V2)]
-- DSi compatible: No
-
-## SuperCard DSONEi
-- [Official website](http://eng.supercard.sc/manual/dsone/evolution/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23501-DSONE%20SDHC%20Evolution%20V1.0%20eng%20sp6.rar?raw=true)
-- [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19101-supercard_dsonei_firmware_upgrade_v1.1_English.zip?raw=true)
-- DSi compatible: [Fix for DSi 1.4.1](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/13193-updateen_for_1.41.zip?raw=true)
-- Comparisons: [Supercard DSONEi vs iTouch2 (GBAtemp)](https://gbatemp.net/threads/itouch2-vs-supercard-dsonei-review.165422/)
-- Reviews: [GBAtemp](https://gbatemp.net/threads/supercard-ds-one-v3.88932/), <!-- [DSDatabase](http://dsdatabase.org/showthread.php/298-Supercard-DS-ONEi), [Another DSDatabase Review](http://dsdatabase.org/entry.php/187-Supercard-DSOnei-Review) (website is going under maintainence for a bit. Check back in a month) -->
-- Purchase: [digitopz.com](http://www.digitopz.com/supercard-ds-onei-p-36.html)
+# Supercard (supercard.sc)
 
 ## SuperCard DSTWO
 - [Official website](http://eng.supercard.sc/manual/dstwo/)
@@ -418,11 +401,6 @@ The following are clones of the M3 cards.
 - DSi compatible: Yes
 - Reviews: [GBAtemp](https://gbatemp.net/threads/supercard-dstwo-review.232281/), [BloodyFlame (with EOS 1.08)](https://gbatemp.net/threads/supercard-dstwo-w-eos-v1-08-review.270748/#post-3341837), [Xoo00o0o0o](https://gbatemp.net/threads/supercard-dstwo-review.241242/), [ProGamers](https://gbatemp.net/threads/review-of-the-supercard-dstwo.230755/), [DSDatabase](http://dsdatabase.org/content.php/58-Supercard-DSTwo-Review), [CodeDonut](https://www.codedonut.com/ds-hacking/supercard-dstwo-review/)
 - Purchase: <!-- - [r43ds.org](https://www.r43ds.org/products/Supercard-DSTwo.html) (out of stock), --> [digitopz.com](http://www.digitopz.com/supercard-dstwo-for-new3ds3dsxln3dsn3ds-xlndsixlndsindslnds-p-37.html), [3ds-flashcard.cc](http://3ds-flashcard.cc/home/10-supercard-dstwo-for-nintendo-3ds-dsi-xl-dsi-v145.html)
-
-## SuperCard DSTWO +
-- [Official Website](http://eng.supercard.sc/index.html)
-- Reviews: [GBAtemp](https://gbatemp.net/review/dstwo.412/)
-- Purchase: <!-- [r43ds.org](https://www.r43ds.org/products/Supercard-DSTwo-Plus.html), --> [3ds-flashcard.cc](http://3ds-flashcard.cc/home/52-dstwo-plus-for-3dsds-game.html), [royal3ds.com](http://www.royal3ds.com/buy-supercard-dstwo-plusdstwo-for-playing-3ds-ds-gba-games-14.html), [nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=135), [stargate3ds.org](http://stargate3ds.org/home/11-supercard-dstwo-plus.html), [modchipsdirect.com](http://www.modchipsdirect.com/supercard-ds2-plus-ds-two-plus.html)
 
 # Other flashcards
 
