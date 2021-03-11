@@ -185,12 +185,14 @@ The following are clones of the M3 cards.
 ## R4 III (r4iiinew.com)
 - [Official Webiste](http://r4iiinew.com)
 
-## R4 III SDHC
+## R4 III SDHC (r4iiisdhc.com)
+- System files: [YSMenu](ysmenu)
 
 ## R4 III Upgrade (r4dsl.net)
 - [Official website](http://www.r4dsl.net/) (discontinued)
 
 ## R4 King
+- System files: [YSMenu](ysmenu)
 
 ## R4 New
 
@@ -240,7 +242,8 @@ The following are clones of the M3 cards.
 
 ## R4i (ndsill.net)
 - [Official Website](http://www.ndsill.net) (discontinued)
-- Firmwares: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_English.rar?raw=true)/[French](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_French.rar?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Spanish.rar?raw=true)/[Dutch](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Dutch.rar?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Italian.rar?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Korean.rar?raw=true)/[German](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_German.rar?raw=true)/[Japanese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Japanese.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Traditional_Chinese.rar?raw=true)]
+<!-- - Firmwares: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_English.rar?raw=true)/[French](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_French.rar?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Spanish.rar?raw=true)/[Dutch](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Dutch.rar?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Italian.rar?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Korean.rar?raw=true)/[German](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_German.rar?raw=true)/[Japanese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Japanese.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Traditional_Chinese.rar?raw=true)] -->
+- System files: [YSMenu](ysmenu)
 
 ## R4i (r4i.cn)
 - [Official website](http://www.r4i.cn/) (discontinued)
@@ -265,6 +268,7 @@ The following are clones of the M3 cards.
 ## R4i DSHC
 - Labeled as R4i SDHC
 - [Official website](http://www.R4i-DSHC.com)
+- System files: [YSMenu](ysmenu)
 - Clone of the DSTT
 
 ## R4i FIFA
