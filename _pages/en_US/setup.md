@@ -168,386 +168,118 @@ The following are clones of the M3 cards.
 
 ## R4 3DS Upgrade SDHC Dual-Core RTS (2016) (r4-usas.com)
 - [Official website (archived)](https://web.archive.org/web/20161008142809/http://www.r4-usas.com/)
-- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-V3.9b%20English.rar?raw=true) (Using any other FW will not work)
-
-## R4 III (r4-dsl.net)
-- [Official website](http://www.r4-dsl.net/)
-
-## R4 III (r4iiinew.com)
-- [Official Webiste](http://r4iiinew.com)
+- [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/r4-usas.com%20R4%203DS%20Upgrade%20SDHC%20Dual-Core%20RTS%20(2016)/R4-usas.com%20R4i%20V3.9b.zip?raw=true)
 
 ## R4 III SDHC (r4iiisdhc.com)
 - System files: [YSMenu](ysmenu)
+- Clone of the DSTT
 
-## R4 III Upgrade (r4dsl.net)
-- [Official website](http://www.r4dsl.net/) (discontinued)
-
-## R4 King (r4-king.com)
+## R4i DSi XL (r4i-ndsill.com)
 - System files: [YSMenu](ysmenu)
+- Clone of the DSTT
 
-## R4 Plus (r4.ndsl.cc)
-- [Official website](http://www.r4.ndsl.cc/) (discontinued)
-- System Files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4Plus_cc_v2.0_English.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4Plus_cc_v2.0_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4Plus_cc_v2.0_Traditional_Chinese.rar?raw=true)]
-
-## R4 Plus (r4plus.net)
-- [Official website](http://www.r4plus.net/) (discontinued)
-- System Files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4Plus_net_v2.01_English.zip?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4Plus_net_v2.01_Korean.zip?raw=true)/[Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4Plus_net_v1.16_Chinese.zip?raw=true)]
-
-## R4 SDHC (r4new.com)
-- [Official website](http://www.r4new.com/) (discontinued)
-
-## R4 SDHC (r4sdhc.com)
-- [Official website](http://www.r4sdhc.com/)
-- This card is no longer officially supported
-
-## R4 SDHC Upgrade
-- [Official website](http://www.r4i-sdhc.com/)
-- [System files](http://filetrip.net/f22650-R4-SDHC-Upgrade-%28r4i-sdhc-com%29-1-27b-English.html)
-- DSi compatible: No
+## R4 King (r4king.com)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
 
 ## R4 Ultra (r4ultra.com)
 - [Official website](http://www.r4ultra.com) (discontinued)
 - [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/R4(i)%20Ultra/R4%20Ultra%20AKAIO%201.8.6a.zip?raw=true)
 
-## R4i Ultra (r4ultra.com)
-- [Official website](http://www.r4ultra.com/) (discontinued)
-- [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/R4(i)%20Ultra/R4%20Ultra%20AKAIO%201.8.6a.zip?raw=true)
-
-## R4 Upgrade (r4-dsl.net)
-- [Official website](http://www.r4-dsl.net/)
-
 ## R4dsixl3d
 - [Official Website](https://www.r4dsixl3d.com/)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
 
 ## R4i (ndsill.net)
 - [Official Website](http://www.ndsill.net) (discontinued)
 <!-- - Firmwares: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_English.rar?raw=true)/[French](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_French.rar?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Spanish.rar?raw=true)/[Dutch](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Dutch.rar?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Italian.rar?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Korean.rar?raw=true)/[German](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_German.rar?raw=true)/[Japanese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Japanese.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Traditional_Chinese.rar?raw=true)] -->
 - System files: [YSMenu](ysmenu)
-
-## R4i SDHC Revolution (r4i.cn)
-- [Official website](http://www.r4i.cn/) (discontinued)
-- System files: [YSMenu](ysmenu)
-
-## R4i (r4idsn.com)
-- [Official website](http://www.r4idsn.com/) (discontinued)
-- [System Files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/R4iDSN.com/R4iDSN.com%20Wood%20R4%201.62.zip?raw=true)
-
-## R4i+ 3DS/DS RTS
-- [Official Website](http://r4ids.cn/)
-- [System Files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/Wood_R4iGold_V1.64.rar?raw=true)
-
-## R4i Blue 
-- [Official website](http://www.r4i-blue.com/indexe.html) (discontinued)
-
-## R4i DSHC (r4i-dshc.com)
-- Labeled as R4i SDHC
-- [Official website](http://www.R4i-DSHC.com)
-- System files: [YSMenu](ysmenu)
 - Clone of the DSTT
-
-## R4i FIFA
-- [Official website](http://www.r4i-fifa.com/r4_index_en.htm) (discontinued)
-
-## R4i Gold (r4ids.cn)
-- [Official website](http://www.r4ids.cn/)
-- DSi compatible: Yes
-- Said to be based on Acekard 2i OEM (TBC)
-- Purchase: [r4ds-ds.com](http://www.r4ds-ds.com/products/R4i-Gold-Card-For-DSi-and-DSi-XL-Consoles-p-162.html)
-
-## R4i Gold (r4i-gold.com)
-- [Official website](http://www.r4i-gold.com/) (discontinued)
-- Firmwares: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_English.rar?raw=true)/[French](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_French.rar?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Spanish.rar?raw=true)/[Dutch](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Dutch.rar?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Italian.rar?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Korean.rar?raw=true)/[German](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_German.rar?raw=true)/[Japanese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Japanese.rar?raw=true)/[Portugese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Portugese.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-Gold_v1.57b_Traditional_Chinese.rar?raw=true)]
-- DSTTi Clone (use YSMenu)
-
-## R4i Gold Pro (r4i-gold.com)
-- System files: [YSMenu](ysmenu)
-
-## R4i V1.4.1 (r4i-gold.com)
-- System files: [YSMenu](ysmenu)
-
-## R4i Gold (r4i-gold.eu)
-- [Official website](http://r4i-gold.eu)
-- System files: [YSMenu](ysmenu)
-
-## R4i Gold (r4idsxl.com)
-- [Official website](http://www.r4idsxl.com/) (discontinued)
-
-## R4i Gold Upgrade Revolution V1.4.1 (r4igold.cn)
-- [Official website](http://www.r4igold.cn/) (discontinued)
-- System files: [YSMenu](ysmenu)
-
-## R4i Gold 3DS Plus (r4ids.cn)
-- [Official Website](http://www.r4ids.cn/)
-- [System Files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i%20Gold%203DS%20Plus%20r4ids.cn%20flash%20backup.zip?raw=true)
-- Review: [GBAtemp](https://gbatemp.net/threads/review-r4i-gold-3ds-plus.488519/), [3ds-flashcard.cc](http://3ds-flashcard.cc/blog/r4i-gold-3ds-plus-review-is-it-better-to-buy-and-easier-to-use-than-r4i-gold-3ds/), [christcenteredgamer.com](https://www.christcenteredgamer.com/reviews/handhelds/3ds/7140-r4i-gold-plus-ds-flashcard)
-- Purchase: [nx-card.com](https://www.nx-card.com/home/7-r4i-gold-3ds-plus.html), [dgchips.com](https://www.dgchips.com/ntrboot-flashkarten/8-r4i-gold-3ds-rts-plusbestes-r4i-gold-fuer-3dsdsi.html), [3ds-flashcard.cc](http://3ds-flashcard.cc/home/72-r4i-gold-3ds-plus-.html), [nds-card.com](https://nds-card.com/ProShow.asp?ProID=575), [mod3dscard.com](https://www.mod3dscard.com/home/3-r4i-gold-3ds-rts-plusbest-r4i-gold-for-any-3ds-dsi.html), [modchipsdirect.com](http://www.modchipsdirect.com/r4i-gold-3ds-plus.html), [r4wood.com](https://www.r4wood.com/en/home/23-r4i-gold-3ds-plus-b9s-cfw-preflashed-r4i-gold-rts-card.html) <!--, [r43ds.org](https://www.r43ds.org/products/R4i-Gold-3DS-Plus.html) -->
-
-## R4i Gold 3DS Wood
-- [System Files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/Wood_R4iGold_V1.64.rar?raw=true)
-- Purchase: [3ds-flashcard.cc](http://3ds-flashcard.cc/home/23-wood-r4i-gold-3ds.html)
-
-## R4i II
-- [Official website](http://www.r4i-sdhc.com.hk) (discontinued)
-- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21103-R4i-II_v1.09b_English.rar?raw=true)
-
-## R4i Platinum
-- [Official Website](http://r4iplat.com/) (discontinued)
-
-## R4i Pocket
-- [Official Website](http://www.r4ipocket.com/) (discontinued)
-- System files: [YSMenu](ysmenu)
-
-## R4i Pro Upgrade
-- [Official Website](http://www.r4ipro.com/)
-- Clone of the R4
-
-## R4i Redant
-- [Official Webite](http://www.r4i-redant.com/indexe.html) (discontinued)
-- System files: [YSMenu](ysmenu)
-
-## R4i RTS
-- Official Website: \[[English](http://www.r4rts.com/) (discontinued)/[Chinese](http://www.r4rts.cn/) (discontinued)]
-
-## R4i SDHC (r4-v.com)
-- [Official website](http://www.r4-v.cn/) (discontinued)
-- System files: [YSMenu](ysmenu)
-
-## R4i SDHC (r4rts.com)
-- [Official website](http://www.r4ids.cn/)
-
-## R4i SDHC Upgrade 1.4
-
-## R4i SDHC Upgrade 1.4.1
-- [Official website](http://www.r4i-sdhc.com/)
-- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/22651-R4i%20V1.27b%20English.zip?raw=true)
-- DSi compatible: Yes
-
-## R4i SDHC (r4i-sdhc.com)
-- [Official website](http://www.r4i-sdhc.com/)
-- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21343-r4i-sdhc_v1.22b_English.rar?raw=true)
-
-## R4i SDHC (r4i-sdhc.com.au)
-- [Official website](http://www.r4i-sdhc.com.au/) (discontinued)
-- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21693-R4iSDHC.com.au_v2.12c_English.rar?raw=true)
-
-## R4i SDHC (r4isdhc.com)
-- [Official website](http://www.r4isdhc.com/) (discontinued)
-- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21556-r4isdhc_R4i_v2.0b_English.rar?raw=true)
-- DSTTi clone (TBC)
-
-## R4i Ultimate
-- [Official website](http://www.r4i-u.com) (discontinued)
-
-## R4i Upgrade (ndsr4i.com)
-- [Official website](http://www.ndsr4i.com/) (discontinued)
-- Firmwares: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4iUpgrade_English.zip?raw=true)/[French](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4iUpgrade_French.zip?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4iUpgrade_Spanish.zip?raw=true)/[Dutch](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4iUpgrade_Dutch.zip?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4iUpgrade_Italian.zip?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4iUpgrade_Korean.zip?raw=true)/[Russian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4iUpgrade_Russian.zip?raw=true)/[Norwegian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4iUpgrade_Norwegian.zip?raw=true)/[German](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4iUpgrade_German.zip?raw=true)/[Japanese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4iUpgrade_Japanese.zip?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4iUpgrade_Simplified_Chinese.zip?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4iUpgrade_Traditional_Chinese.zip?raw=true)]
-- Clone of the DSTT
-
-## R4i Yes
-- [Official website](http://www.r4i-yes.com) (discontinued)
-<!-- - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25202-r4i-yes.zip?raw=true) -->
-- System files: [YSMenu](ysmenu)
-- Purchase: [digitopz.com](http://www.digitopz.com/r4iyes-p-93.html)
-
-## R4i3D (2014)
-- [Official website](http://www.r4i3d.com/) (discontinued)
-
-## R4iDSXL
-- [Official website](http://www.r4idsxl.com/) (discontinued)
 
 ## R4iSDHC Revolution (r4ita.com)
 - [Official website](http://www.r4ita.com/) (discontinued)
 <!-- - System files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21703-r4ita_v2.05_English.rar?raw=true) -->
 - System files: [YSMenu](ysmenu)
 
-## R4iTT (r4itt.net)
-- [Official website](https://web.archive.org/web/20130329060939/http://r4itt.net/)
-- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/RTS5.0.English.rar?raw=true)
-- Purchase: [3ds-flashcard.cc](http://3ds-flashcard.cc/home/32-r4itt-purple-rts.html)
+## R4i Gold (r4i-gold.eu)
+- [Official website](http://r4i-gold.eu)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
 
-## R4X
+## R4i Gold 3DS (r4i-gold.cc)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
+
+## R4i Gold 3DS Plus (r4ids.cn)
+- [Official Website](http://www.r4ids.cn/)
+- [System Files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/R4iDS.cn/R4iDS.cn%20Wood%20R4%201.64.zip?raw=true)
+- Review: [GBAtemp](https://gbatemp.net/threads/review-r4i-gold-3ds-plus.488519/), [3ds-flashcard.cc](http://3ds-flashcard.cc/blog/r4i-gold-3ds-plus-review-is-it-better-to-buy-and-easier-to-use-than-r4i-gold-3ds/), [christcenteredgamer.com](https://www.christcenteredgamer.com/reviews/handhelds/3ds/7140-r4i-gold-plus-ds-flashcard)
+- Purchase: [nx-card.com](https://www.nx-card.com/home/7-r4i-gold-3ds-plus.html), [dgchips.com](https://www.dgchips.com/ntrboot-flashkarten/8-r4i-gold-3ds-rts-plusbestes-r4i-gold-fuer-3dsdsi.html), [3ds-flashcard.cc](http://3ds-flashcard.cc/home/72-r4i-gold-3ds-plus-.html), [nds-card.com](https://nds-card.com/ProShow.asp?ProID=575), [mod3dscard.com](https://www.mod3dscard.com/home/3-r4i-gold-3ds-rts-plusbest-r4i-gold-for-any-3ds-dsi.html), [modchipsdirect.com](http://www.modchipsdirect.com/r4i-gold-3ds-plus.html), [r4wood.com](https://www.r4wood.com/en/home/23-r4i-gold-3ds-plus-b9s-cfw-preflashed-r4i-gold-rts-card.html) <!--, [r43ds.org](https://www.r43ds.org/products/R4i-Gold-3DS-Plus.html) -->
+
+## R4i Gold V1.4.1 (r4i-gold.com)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
+
+## R4i Gold V1.4.1 (r4igold.cn)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
+
+## R4i Pocket
+- [Official Website](http://www.r4ipocket.com/) (discontinued)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
+
+## R4i Redant
+- [Official Webite](http://www.r4i-redant.com/indexe.html) (discontinued)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
+
+## R4i SDHC (r4i-dshc.com)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
+
+## R4i SDHC (r4i-sdhc.com.tw)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
+
+## R4i SDHC 2014-2021 (r4isdhc.com)
+- [Official website](http://r4isdhc.com)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
+- ntrboot compatible
+
+## R4i SDHC Revolution (r4i.cn)
+- [Official website](http://www.r4i.cn/) (discontinued)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
+
+## R4i SDHC Silver RTS Lite (r4isdhc.com)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
+
+## R4i Ultra (r4ultra.com)
+- [Official website](http://www.r4ultra.com/) (discontinued)
+- [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/R4(i)%20Ultra/R4%20Ultra%20AKAIO%201.8.6a.zip?raw=true)
+- Clone of the Acekard 2i
+
+## R4i Upgrade Revolution (r4i-gold.cc)
+- System files: [YSMenu](ysmenu)
+- Clone of the DSTT
+
+## R4i YES (r4i-yes.com)
+- [Official website](http://www.r4i-yes.com) (discontinued)
+<!-- - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25202-r4i-yes.zip?raw=true) -->
+- System files: [YSMenu](ysmenu)
+- Purchase: [digitopz.com](http://www.digitopz.com/r4iyes-p-93.html)
+- Clone of the DSTT
+
+## R4xDS (r4xds.com)
 - [Official website](http://www.r4xds.com/) (discontinued)
 <!-- - System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21745-R4X_v2.03_English.rar?raw=true) -->
 - System files: [YSMenu](ysmenu)
-
-## Super R4i
-- [Official website](http://www.super4i.com/)
-- System files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21785-SuperR4i_v1.20_English.zip?raw=true)
-
-## Gold R4i (r4ids.com)
-## Hyper R4i
-- [Official Website](http://hyper4i.com)
-- Kernel: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/HyperR4i_v1.58.rar?raw=true)
-- Firmware: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/HyperR4i_F1.4_firmware.rar?raw=true)
-
-# Supercard (supercard.sc)
-
-## SuperCard DSTWO
-- [Official website](http://eng.supercard.sc/manual/dstwo/)
-- [System files](http://filetrip.net/g35130066-Supercard-DSTWO-EOS.html)
-- DSi compatible: Yes
-- Reviews: [GBAtemp](https://gbatemp.net/threads/supercard-dstwo-review.232281/), [BloodyFlame (with EOS 1.08)](https://gbatemp.net/threads/supercard-dstwo-w-eos-v1-08-review.270748/#post-3341837), [Xoo00o0o0o](https://gbatemp.net/threads/supercard-dstwo-review.241242/), [ProGamers](https://gbatemp.net/threads/review-of-the-supercard-dstwo.230755/), [DSDatabase](http://dsdatabase.org/content.php/58-Supercard-DSTwo-Review), [CodeDonut](https://www.codedonut.com/ds-hacking/supercard-dstwo-review/)
-- Purchase: <!-- - [r43ds.org](https://www.r43ds.org/products/Supercard-DSTwo.html) (out of stock), --> [digitopz.com](http://www.digitopz.com/supercard-dstwo-for-new3ds3dsxln3dsn3ds-xlndsixlndsindslnds-p-37.html), [3ds-flashcard.cc](http://3ds-flashcard.cc/home/10-supercard-dstwo-for-nintendo-3ds-dsi-xl-dsi-v145.html)
-
-# Other flashcards
-
-## DS Fire 2
-- [Official website](http://web.archive.org/web/20110129103557/http://www.dsfire2.com/)
-- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19403-DSFire2_v1.0_English.rar?raw=true)
-- Purchase: [dwtechz.com](http://www.dwtechz.com/ds-fire-2-p-217.html)
-- Acekard 2i clone
-
-## DS Fire Link
-- [Official website](http://dsfirelink.com)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18526-DS_Fire_Link_v1.45_v2.52.rar?raw=true)
-- DSi compatible: No
-- Clone of the N-Card
-
-### Upgrade instructions
-
-1. Copy the .nds file onto your card and run it.
-- Once this process reaches 100%, shutdown your DS.
-2. Turn it back on and hold Start+Select to bring up the format menu.
-3. Select Quick Format and let it complete.
-4. Once finished, copy xmenu.dat onto the card.
-
-## DS Link
-- [Official website](http://www.ds-link.net/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18533-DSLink_v2.32_20090206.zip?raw=true)
-- Reviews: [GBAtemp](https://gbatemp.net/threads/dslink-review.37209/), [DSDatabase](http://dsdatabase.org/showthread.php/566-DSLink)
-- DSi/3DS compatible: No
-
-## DSLinker
-- [Official website](http://web.archive.org/web/20070608001434/http://www.dslinker.com/) (does not work well on modern browsers with modern rendering engines)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25713-Ds_Xtreme_updater_v1.1.3_GXmod.zip?raw=true)
-- DSi compatible: No
-- Reviews: [GBAtemp](https://gbatemp.net/threads/ds-linker-16gbit-review.49614/), [DSDatabase](http://dsdatabase.org/showthread.php/562-DS-Linker)
-- Clone of the N-Card
-
-## DS-Xtreme
-- [Official website](https://web.archive.org/web/20080916000621/http://www.ds-x.com/cgi-bin/dsx/engine.pl?page=home)
-- [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25713-Ds_Xtreme_updater_v1.1.3_GXmod.zip?raw=true)
-- DSi/3DS compatible: No
-- Reviews: [DSFlash](http://dsflash.com/ds-xtreme.htm), [GBAtemp](https://gbatemp.net/threads/ds-xtreme-review.38174/)
-
-## E7
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19469-E7_v2.01_English.zip?raw=true)
-- Clone of the R4
-
-## eWin2
-- [Official website](https://web.archive.org/web/20070517021923/http://www.ewin2.net/)
-- [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18742-eWin2_firmware_v1.96.8EN.rar?raw=true)
-- Reviews: [GBAtemp](https://gbatemp.net/threads/ewin2-review.37794/)
-- DSi/3DS compatible: No
-
-## Gateway 3DS (Blue card)
-
-## GEi DS/Galaxy Eagle
-- [Official website](http://www.ge.ndsi.in/)
-- System files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/259261-GEiv4.2_EN.zip?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/GEiv4.2_ZH.zip?raw=true)]
-- Clone of the R4
-- Can autoboot into TWiLight Menu++.
-
-## iSmart Premium
-- [Official website](http://web.archive.org/web/20150924230036/http://ismartds.com/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/24622-system_v105.zip?raw=true)
-- Review: [DS-Scene](http://www.ds-scene.net/?s=viewtopic&id=3346)
-- Purchase: [Digimartz.com](http://www.digimartz.com/ismart-ds-ismart-premium-for-nintendo-ds-dsi-dsi-ll_p704.html), [Digitopz.com](http://www.digitopz.com/ismart-ds-ismart-premium-for-nintendo-ds-dsi-dsi-ll-p-122.html)
-- 3DS Support: Yes
-
-## MARS
-- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19586-MARS_v1.03_English.zip?raw=true)
-- Clone of the R4DS
-
-## MK5
-- [Official website](http://www.neoflash.com)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/%5B3889%5Dxmenu_2.56.zip?raw=true)
-- DSi compatible: No
-- Review: [DSDatabase](http://dsdatabase.org/mk5giga.html)
-- Clone of the N-Card
-
-## N5
-- [Official website](http://www.dsn5.com/EN-N5/n5-en.htm) (discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18979-NCard_v1.45_v2.53_v25.zip?raw=true)
-- DSi Compatible: No
-- Purchase: [digitopz.com](http://www.digitopz.com/n5-ds-revolution-p-55.html)
-- Clone of the R4/M3 Simply
-
-## N5i
-- [Official website](http://www.dsn5.com/EN-N5/n5-en.htm) (discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/26383-n5i.zip?raw=true)
-- DSi Compatible: Yes
-- Purchase: [digitopz.com](http://www.digitopz.com/n5i-dsi-revolution-p-58.html)
-- Clone of the R4/M3 Simply
-
-## N-Card
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18979-NCard_v1.45_v2.53_v25.zip?raw=true)
-- DSi/3DS compatible: No
-
-## NCard II
-- [Official Website](http://www.ncard2.com/) (discontinued)
-- [System Files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NCard_II_2nd082009.zip?raw=true)
-- Clone of the N-Card and the DSTT
-
-## ND1
-- [Official Website](http://www.dsnd1.com/) (discontinued)
-- Clone of the N5, which is a clone of the R4
-
-## NinjaDS
-
-## NPlayer
-- [Official Website](http://www.ndsplayer.com/) (discontinued)
-- Review: [DSDatabase](http://dsdatabase.org/showthread.php/409-NPlayer)
-- System Files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_English.zip?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_Korean.zip?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_Italian.zip?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/NPlayer_v3.07_Spanish.zip?raw=true)]
-
-## QQ3DS
-- Purchase: [3dsflashkart.com](http://www.3dsflashkart.com/qq3ds-break-all-ds3ds-backup-games-for-any-3ds3dsxl2dsnew-3ds-p-293.html)
-
-## TTi Upgrade
-- [Official website](http://www.nds-tti.com/) (discontinued)
-- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/8967-TTi%2520eng%2520V1.19%5B1%5D.rar?raw=true)
 - Clone of the DSTT
 
-## U2DS
-- [Official website](http://www.u2ds.com/) (discontinued)
-- System files: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19749-U2DS_v1.7c_English.zip?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19754-U2DS_v1.7c_Traditional_Chinese.zip?raw=true)]
-- Reviews: [DSDatabase](http://dsdatabase.org/showthread.php/377-U2DS)
-- Clone of either the DSTT or the R4.
 
-## Ultra Flashpass Ex
-- [Official website](http://www.ndsgba.net/) (discontinued)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/%5B905%5Dufpex_145_252.zip?raw=true)
-- Reviews: [GBAtemp](https://gbatemp.net/threads/ultra-flashpass-ex-review.45180/)
 
-# Others
 
-## CycloDS (i)Evolution
-- [Official website](https://web.archive.org/web/20140208135335/http://cyclopsds.com/cgi-bin/cyclods/engine.pl)
-- System files: \[[Stable](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25158-evo-firmware-2.3.zip?raw=true)/[Beta](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/24709-evo-firmware-BETA-B.7.zip?raw=true)]
-- DSi compatible: No
-- Reviews: [GBAtemp](https://gbatemp.net/threads/cyclods-evolution-review.53450/), [RockStar99](https://gbatemp.net/threads/rockstar99s-cyclods-review.161605/#post-2054227), [DSDatabase](http://dsdatabase.org/showthread.php/1900-Cyclo-DS-iEvolution-Review)
-- Purchase: [digitopz.com (iEvolution)](http://www.digitopz.com/cyclods-ievolution-flashcard-for-dsdsi3ds-p-702.html)
-
-### Update instructions
-
-Just place the file `update.evo` on the root directory of your MicroSD card. The rest of the process will be automatic.
-
-# Homebrew-Only flashcards
-
-## Datel Max Media Player
-- [Official website](http://us.codejunkies.com/mpds/index.htm)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18958-MMPDS_v1.22.zip?raw=true)
-- Reviews: [CodeJunkies](https://web.archive.org/web/20070526180552/http://uk.codejunkies.com/news_reviews.asp?c=&cr=&cs=&r=1&l=&page=1&p=17&i=8952&s=8), [maxconsole.com](https://www.maxconsole.com/threads/datel-max-media-player-for-ds-review.69/)
-
-## iPlayer
-- [Official website](http://web.archive.org/web/20171218121538/http://www.dsiplayer.com/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25071-eng_iPlayer_OS_20110513.zip?raw=true)
-- DSi compatible: Yes
-- Reviews: [DSDatabase](http://dsdatabase.org/showthread.php/206-iPlayer)
-- Purchase: [digitopz.com](http://www.digitopz.com/ds-iplayer-iplayer-ds-video-player-for-nintendo-ds-dsi-p-28.html)
-
-## Games'N'Music
-- [Official website](http://us.codejunkies.com/Products/NDS-Games-n-Music__EF000155.aspx)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/22656-Games_n_Music_disc_contents.zip?raw=true)
-- Purchase: [Amazon](https://www.amazon.com/Game-Music-Nintendo-Lite-Entertainment-System/dp/B000RJZ1YY)
-- Reviews: [GBAtemp](https://gbatemp.net/threads/games-n-music.91189/)
