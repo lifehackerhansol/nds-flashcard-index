@@ -120,10 +120,6 @@ This manufacturer is no longer around. You will no longer get official support f
 # M3
 This manufacturer is no longer around. You will no longer get official support from the M3 team.
 
-## M3 Adaptador (m3adaptador.com)
-- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/M3Adaptador_v3.9_English.zip?raw=true)
-- Ripoff of the M3
-
 ## M3 DS Real/M3 Perfect (m3adapter.com)
 - [Official website](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/)
 - [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/M3%20DS%20Real%20(M3%20Perfect,%20M3i%20Zero)/M3DS%20Sakura%201.49a.zip?raw=true)
@@ -139,10 +135,16 @@ This manufacturer is no longer around. You will no longer get official support f
 - Purchase: [nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=159), [dwtechz.com](http://www.dwtechz.com/m3i-zero-for-3ds-nds-ndsl-ndsi-dsixl-p-483.html)
 
 ## M3 DS Simply (m3adapter.com)
-- [Official website](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/)
+- [Official website (archived)](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/)
 - [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/R4%20(original),%20M3%20Simply/R4DS%20Wood%20R4%201.62.zip?raw=true)
 - Review: [GBAtemp](https://gbatemp.net/threads/m3-ds-simply-review.44631/)
 - Clone of the R4 DS
+
+The following are clones of the M3 cards.
+
+## M3 Adaptador (m3adaptador.com)
+- System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/M3Adaptador_v3.9_English.zip?raw=true)
+- Ripoff of the M3
 
 ## M3i SDHC (m3isdhc.com)
 - [Official website](http://m3isdhc.com/)
@@ -156,7 +158,7 @@ This manufacturer is no longer around. You will no longer get official support f
 # R4
 
 ## R4 3DS Upgrade SDHC Dual-Core RTS (2016) (r4-usas.com)
-- [Official website](https://web.archive.org/web/20161008142809/http://www.r4-usas.com/)
+- [Official website (archived)](https://web.archive.org/web/20161008142809/http://www.r4-usas.com/)
 - System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-V3.9b%20English.rar?raw=true) (Using any other FW will not work)
 
 ## R4 Advance
