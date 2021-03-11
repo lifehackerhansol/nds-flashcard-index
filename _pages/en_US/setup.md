@@ -4,29 +4,32 @@ title: Flashcard Firmwares
 
 {% include toc title="List of Firmwares" %}
 
-This page will attempt to provide a comprehensive guide to which firmware, kernel or system files you need to download for your flashcart.
+If your flashcard does not have a website link on its front sticker, you will need to find your files in [Identifying Flashcard without Website] instead.
+{: .notice--danger}
+
+This page will attempt to provide a comprehensive guide to which firmware, kernel or system files you need to download for your flashcard.
 We prioritize updated operating systems over the official and unsupported ones. For example, we would rather direct users to Wood R4 rather than the original R4 system files which haven't been updated for years.
 
-The list should be grouped by brand and sorted alphabetically. Use the Table of Contents box on the right/above this text to navigate this list. It should be titled "List of Firmwares"
+The list should be grouped by brand and sorted alphabetically, all listing the website links. Use the Table of Contents box on the right/above this text to navigate this list. It should be titled "List of Firmwares"
 
 Once you've grabbed your System Files, go to [the TWiLight Menu++ setup page](twilight).
 {: .notice-info}
 
-- "Clone" flashcarts are copies of original cards. Example: the M3 Simply is a clone of the original R4 DS. Systems that run on the R4 DS run the same way on the M3 Simply.
-- A "fake" flashcart is a device that steals the name of an original card, but that is nothing like it. Example: the R4 Upgrade is a fake R4 DS, it is not compatible with any of the system files available for the R4 DS (a fake card uses its own separate system files).
+- "Clone" flashcards are copies of original cards. Example: the M3 Simply is a clone of the original R4 DS. Systems that run on the R4 DS run the same way on the M3 Simply.
+- A "fake" flashcard is a device that steals the name of an original card, but that is nothing like it. Example: the R4 Upgrade is a fake R4 DS, it is not compatible with any of the system files available for the R4 DS (a fake card uses its own separate system files).
 - A card can be both a clone and a fake. Most fake R4 cards are clones of the Acekard 2i and DSTT.
 - Keep in mind that every R4 card (except for the original) is indeed a clone/fake, and [that (almost) all R4i-SDHC/R4iSDHC carts are the same.](https://gbatemp.net/threads/proof-that-almost-all-r4i-sdhc-r4isdhc-carts-are-literally-the-same-carts.514539/)
 
-# Ace3DS
+# Ace3DS (ace3ds.com)
 ## Ace3DS+ (Ace3DS X)
 - [Official Website](http://www.ace3ds.com/)
 - DSi/3DS Compatible: Yes
 - [System Files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/Ace3DS+%20(X)/Ace3DS+%20(X)%20Wood%20R4%201.62.zip?raw=true)
 - Reviews: [GBAtemp](https://gbatemp.net/threads/ace3ds-plus-review.331160/), [GBAtemp (Ace3DS X)](https://gbatemp.net/review/ace3dsx.667/)
-- Purchase: [digitopz.com](https://www.digitopz.com/buy-ace3ds-plus-flashcart-for-ninetendo-2ds-dsl-dsi-3dsxl-ll-p-1170.html), [mod3dscards.com](https://www.mod3dscard.com/home/8-ace3ds-plus-cheapest-r4-card.html), [r4wood.com](https://www.r4wood.com/en/home/25-ace3ds-plus-cheap-card-new-3ds-2ds-dsi-ds.html)
+- Purchase: [digitopz.com](https://www.digitopz.com/buy-ace3ds-plus-flashcard-for-ninetendo-2ds-dsl-dsi-3dsxl-ll-p-1170.html), [mod3dscards.com](https://www.mod3dscard.com/home/8-ace3ds-plus-cheapest-r4-card.html), [r4wood.com](https://www.r4wood.com/en/home/25-ace3ds-plus-cheap-card-new-3ds-2ds-dsi-ds.html)
 - NTRBoot compatible (Ace3DS X has a hardware switch to enable NTRBoot)
 
-# Acekard
+# Acekard (acekard.com)
 This manufacturer is no longer around. You will no longer get official support from the Acekard team.
 
 ## Acekard (Acekard+)
@@ -63,7 +66,7 @@ This manufacturer is no longer around. You will no longer get official support f
 If you use a DS Lite, copy and run `dsl.nds`.     
 If you use a DSi under 1.4, copy and run `dsi.nds`.
 
-# DSTT
+# DSTT (ndstt.com)
 This manufacturer is no longer around. You will no longer get official support from the DSTT team.
 
 ## DSTT/DSTTi
@@ -73,17 +76,17 @@ This manufacturer is no longer around. You will no longer get official support f
 - Purchase: [nds-card.com](https://nds-card.com/ProShow.asp?ProID=157), <!-- [r43ds.org](https://www.r43ds.org/products/DSTT-Card.html) , --> [digitopz.com (DSTT)](http://www.digitopz.com/dstt-top-toy-ds-p-20.html), [digitopz.com DSTTi](http://www.digitopz.com/dstti-for-dsi-ds-support-sdhc-p-17.html)
 - Only models with [certain flash chips](https://gist.github.com/yuukieve/6b48f1bb8dd15136403c15c39fafdb42) are compatible with ntrboot
 
-## DSTT Advance
+## DSTT Advance (dstt-adv.com)
 - [Official Website](http://web.archive.org/web/20121014090312/http://www.dstt-adv.com/)
 - This is a fake/clone card
 
-## DSTTi Gold
+## DSTTi Gold (ndstti.cn)
 - [Official Website](http://web.archive.org/web/20111216144004/http://www.ndstti.cn/)
 - This is a fake/clone card
 
 # EDGE
 
-## EDGE/iEDGE
+## EDGE/iEDGE (edge-ds.cn)
 - [Official website](http://www.edge-ds.cn/)
 - [System files (EDGE)](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/EDGE/EDGE%20OS%202.3.zip?raw=true)
 - DSi/3DS compatible: No
@@ -91,11 +94,11 @@ This manufacturer is no longer around. You will no longer get official support f
 - Purchase: [digitopz.com EDGE](http://www.digitopz.com/edge-ds-card-microsdhc-support-for-nds-ndsl-p-44.html), [digitopz.com iEDGE](http://www.digitopz.com/iedge-support-dsi-v14dsl-from-edge-team-p-46.html)
 - This card is no longer officially supported
 
-## EDGEi
+## EDGEi (edgei-ds.cn)
 - [Official Website](http://web.archive.org/web/20100209184039/http://www.edgei-ds.cn/)
 - Clone of the EDGE/iEDGE
 
-# EZ-Flash
+# EZ-Flash (ezflash.cn)
 ## EZ-Flash IV
 - [Official website](http://www.ezflash.cn/)
 - DSi compatible: No
@@ -117,7 +120,7 @@ This manufacturer is no longer around. You will no longer get official support f
 - Reviews: [GBAtemp](https://gbatemp.net/threads/ez5i-long-term-review.239947/)
 - Purchase: [r4ds-ds.com](http://www.r4ds-ds.com/products/EZ-Flash-Vi-Simple-Edition-for-DS-DS-Lite-and-DSi-p-241.html)
 
-# G6 DS
+# G6 DS (g6flash.com)
 ## G6 DS Real
 - [Official website](http://web.archive.org/web/20140102193632/http://g6flash.com/)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23808-G6_M3DS-R_M74.zip?raw=true)
@@ -132,7 +135,7 @@ This manufacturer is no longer around. You will no longer get official support f
 - Review: [GBAtemp (3rd gen.)](https://gbatemp.net/threads/g6-flash-3rd-generation-review.28750/), [ds-lite.com](http://ds-lite.com/flash/g6-flash-3.htm)
 - DSi compatible: No
 
-# iTouch
+# iTouch (itouchds.com)
 ## iTouch2
 - [Official website](https://web.archive.org/web/20101007203705/http://www.itouchds.com/)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18856-iTouch_loader_v3.8e.zip?raw=true)
@@ -158,38 +161,38 @@ This manufacturer is no longer around. You will no longer get official support f
 ## M3 Adaptes
 - Fake M3 copycats. They use a clone loader similar to the DSTT.
 
-## M3 DS Real/M3 Perfect
+## M3 DS Real/M3 Perfect (m3adapter.com)
 - [Official website](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/)
 - [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/M3%20DS%20Real%20(M3%20Perfect,%20M3i%20Zero)/M3DS%20Sakura%201.49a.zip?raw=true)
 - DSi/3DS compatible: No
 - Review: [GBAtemp](https://gbatemp.net/threads/m3ds-real-review.68277/), [DSDatabase](http://dsdatabase.org/showthread.php/548-M3DS-Real) ([Follow up](http://dsdatabase.org/showthread.php/307-M3-Real-M3-Sakura))
 - Purchase links: <!-- [r43ds.org](https://www.r43ds.org/products/M3-Real-Card-Rumble-Pack-Bundle.html), --> [r4ds-uk.com](http://www.r4ds-uk.com/m3-real-ds-card-with-rumble-pack-4gb-kingston-micro-sd-card_p474.html), [digimartz.com](http://www.digimartz.com/m3-ds-real-perfect-bundle-pack_p212.html), [dwtechz.com](http://www.dwtechz.com/m3dsm3-ds-real-rumble-pack-p-482.html)
 
-## M3i Zero
+## M3i Zero (m3adapter.com)
 - [Official website](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/)
 - [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/M3%20DS%20Real%20(M3%20Perfect,%20M3i%20Zero)/M3DS%20Sakura%201.49a.zip?raw=true)
 - DSi/3DS compatible: No
 - Review: [GBAtemp](https://gbatemp.net/threads/m3i-zero-review.182018/), [DSDatabase](http://dsdatabase.org/showthread.php/174-M3i-Zero)
 - Purchase: [nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=159), [dwtechz.com](http://www.dwtechz.com/m3i-zero-for-3ds-nds-ndsl-ndsi-dsixl-p-483.html)
 
-## M3 Simply
+## M3 Simply (m3adapter.com)
 - [Official website](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/)
 - [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/R4%20(original),%20M3%20Simply/R4DS%20Wood%20R4%201.62.zip?raw=true)
 - Review: [GBAtemp](https://gbatemp.net/threads/m3-ds-simply-review.44631/)
 - Clone of the R4 DS
 
-## M3i SDHC
+## M3i SDHC (m3isdhc.com)
 - [Official website](http://m3isdhc.com/)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19585-M3iSDHC_v1.4.rar?raw=true)
 - DSi Support: Yes
 
-## M3i Upgrade/M3L Upgrade
+## M3i Upgrade/M3L Upgrade (m3iupgrade.com)
 - [Official website](http://m3iupgrade.com/)
 - System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/19507-m3iupgrade_M3i_v1.45_English.rar?raw=true)
 
 # R4
 
-## R4 3DS Upgrade SDHC Dual-Core RTS (2016)
+## R4 3DS Upgrade SDHC Dual-Core RTS (2016) (r4-usas.com)
 - [Official website](https://web.archive.org/web/20161008142809/http://www.r4-usas.com/)
 - System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i-V3.9b%20English.rar?raw=true) (Using any other FW will not work)
 
@@ -328,7 +331,7 @@ This manufacturer is no longer around. You will no longer get official support f
 ## R4i Gold 3DS Plus
 - [Official Website](http://www.r4ids.cn/)
 - [System Files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/R4i%20Gold%203DS%20Plus%20r4ids.cn%20flash%20backup.zip?raw=true)
-- Review: [GBAtemp](https://gbatemp.net/threads/review-r4i-gold-3ds-plus.488519/), [3ds-flashcard.cc](http://3ds-flashcard.cc/blog/r4i-gold-3ds-plus-review-is-it-better-to-buy-and-easier-to-use-than-r4i-gold-3ds/), [christcenteredgamer.com](https://www.christcenteredgamer.com/reviews/handhelds/3ds/7140-r4i-gold-plus-ds-flashcart)
+- Review: [GBAtemp](https://gbatemp.net/threads/review-r4i-gold-3ds-plus.488519/), [3ds-flashcard.cc](http://3ds-flashcard.cc/blog/r4i-gold-3ds-plus-review-is-it-better-to-buy-and-easier-to-use-than-r4i-gold-3ds/), [christcenteredgamer.com](https://www.christcenteredgamer.com/reviews/handhelds/3ds/7140-r4i-gold-plus-ds-flashcard)
 - Purchase: [nx-card.com](https://www.nx-card.com/home/7-r4i-gold-3ds-plus.html), [dgchips.com](https://www.dgchips.com/ntrboot-flashkarten/8-r4i-gold-3ds-rts-plusbestes-r4i-gold-fuer-3dsdsi.html), [3ds-flashcard.cc](http://3ds-flashcard.cc/home/72-r4i-gold-3ds-plus-.html), [nds-card.com](https://nds-card.com/ProShow.asp?ProID=575), [mod3dscard.com](https://www.mod3dscard.com/home/3-r4i-gold-3ds-rts-plusbest-r4i-gold-for-any-3ds-dsi.html), [modchipsdirect.com](http://www.modchipsdirect.com/r4i-gold-3ds-plus.html), [r4wood.com](https://www.r4wood.com/en/home/23-r4i-gold-3ds-plus-b9s-cfw-preflashed-r4i-gold-rts-card.html) <!--, [r43ds.org](https://www.r43ds.org/products/R4i-Gold-3DS-Plus.html) -->
 
 ## R4i Gold 3DS Wood
@@ -456,7 +459,7 @@ This manufacturer is no longer around. You will no longer get official support f
 - Reviews: [GBAtemp](https://gbatemp.net/review/dstwo.412/)
 - Purchase: <!-- [r43ds.org](https://www.r43ds.org/products/Supercard-DSTwo-Plus.html), --> [3ds-flashcard.cc](http://3ds-flashcard.cc/home/52-dstwo-plus-for-3dsds-game.html), [royal3ds.com](http://www.royal3ds.com/buy-supercard-dstwo-plusdstwo-for-playing-3ds-ds-gba-games-14.html), [nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=135), [stargate3ds.org](http://stargate3ds.org/home/11-supercard-dstwo-plus.html), [modchipsdirect.com](http://www.modchipsdirect.com/supercard-ds2-plus-ds-two-plus.html)
 
-# Other flashcarts
+# Other flashcards
 
 ## DS Fire 2
 - [Official website](http://web.archive.org/web/20110129103557/http://www.dsfire2.com/)
