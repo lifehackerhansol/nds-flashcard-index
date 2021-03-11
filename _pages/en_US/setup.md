@@ -4,7 +4,7 @@ title: Flashcard Firmwares
 
 {% include toc title="List of Firmwares" %}
 
-If your flashcard does not have a website link on its front sticker, you will need to find your files in [Identifying Flashcard without Website] instead.
+If your flashcard does not have a website link on its front sticker, you will need to find your files in [Identifying Flashcard without Website](setup-noimage) instead.
 {: .notice--danger}
 
 This page will attempt to provide a comprehensive guide to which firmware, kernel or system files you need to download for your flashcard.
