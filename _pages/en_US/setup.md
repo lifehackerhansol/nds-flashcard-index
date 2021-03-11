@@ -4,7 +4,7 @@ title: Flashcard Firmwares
 
 {% include toc title="List of Firmwares" %}
 
-If your flashcard does not have a website link on its front sticker, you will need to find your files in [Identifying Flashcard without Website](setup-noimage) instead.
+If your flashcard does not have a website link on its front sticker, you will need to find your files in [Identifying Flashcard without Website](setup-nolink) instead.
 {: .notice--danger}
 
 This page will attempt to provide a comprehensive guide to which firmware, kernel or system files you need to download for your flashcard.
@@ -84,29 +84,9 @@ This manufacturer is no longer around. You will no longer get official support f
 - [Official Website](http://web.archive.org/web/20111216144004/http://www.ndstti.cn/)
 - This is a fake/clone card
 
-# EDGE
-
-## EDGE/iEDGE (edge-ds.cn)
-- [Official website](http://www.edge-ds.cn/)
-- [System files (EDGE)](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/EDGE/EDGE%20OS%202.3.zip?raw=true)
-- DSi/3DS compatible: No
-- Review: [GBAtemp](https://gbatemp.net/threads/edge-review.74099/), [DSDatabase EDGE](http://dsdatabase.org/showthread.php/543-EDGE-DS), [DSDatabase iEDGE](http://dsdatabase.org/showthread.php/1214-iEDGE)]
-- Purchase: [digitopz.com EDGE](http://www.digitopz.com/edge-ds-card-microsdhc-support-for-nds-ndsl-p-44.html), [digitopz.com iEDGE](http://www.digitopz.com/iedge-support-dsi-v14dsl-from-edge-team-p-46.html)
-- This card is no longer officially supported
-
-## EDGEi (edgei-ds.cn)
-- [Official Website](http://web.archive.org/web/20100209184039/http://www.edgei-ds.cn/)
-- Clone of the EDGE/iEDGE
-
 # EZ-Flash (ezflash.cn)
-## EZ-Flash IV
-- [Official website](http://www.ezflash.cn/)
-- DSi compatible: No
-- Reviews: [GBAtemp](https://gbatemp.net/threads/ez-flash-iv-review.32250/), [HackInformer](https://hackinformer.com/2017/03/03/review-ez-flash-iv-gba-gbasp-nds/), [MaxConsole](https://www.maxconsole.com/threads/ez-flash-iv-review.25571/)
-- Purchase [digitopz.com](http://www.digitopz.com/buy-ezflash-iv-flashcard-ez4-for-ndsndslgbagbaspgbm-p-1450.html)
-- This card is no longer officially supported
 
-## EZ-Flash V(+)
+## EZ-Flash V Plus
 - [Official website](http://www.ezflash.cn/)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23783-2.0RC20.zip?raw=true)
 - Reviews: [GBAtemp](https://gbatemp.net/threads/ez-flash-v-review.42399/) & [DSDatabase](http://dsdatabase.org/showthread.php/564-EZ-Flash-V)
@@ -120,19 +100,12 @@ This manufacturer is no longer around. You will no longer get official support f
 - Reviews: [GBAtemp](https://gbatemp.net/threads/ez5i-long-term-review.239947/)
 - Purchase: [r4ds-ds.com](http://www.r4ds-ds.com/products/EZ-Flash-Vi-Simple-Edition-for-DS-DS-Lite-and-DSi-p-241.html)
 
-# G6 DS (g6flash.com)
-## G6 DS Real
+# G6 DS
+## G6 DS Real (gbalpha.com)
 - [Official website](http://web.archive.org/web/20140102193632/http://g6flash.com/)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23808-G6_M3DS-R_M74.zip?raw=true)
 - Reviews: [GBAtemp](https://gbatemp.net/threads/g6ds-real-review.49102/), [DSDatabase](http://dsdatabase.org/showthread.php/559-G6DS-Real) & [DCEMUuk](http://www.dcemu.co.uk/vbulletin/threads/63114-Review-G6-Flash-G6DS-Real-SLOT-1-(1GB))
 - Purchase: [digimartz.com](http://digimartz.com/g6ds-real-16gb-nds-backup-unit_p195.html)
-- DSi compatible: No
-
-## G6 Flash/Lite
-- [Official website](http://web.archive.org/web/20140102193632/http://g6flash.com/)
-- [Kernel](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18355-G6_Kernel_v4.8_English.zip?raw=true)
-- [PC Software](http://filetrip.net/f2298-G6-Manager-5-1-Full.html)
-- Review: [GBAtemp (3rd gen.)](https://gbatemp.net/threads/g6-flash-3rd-generation-review.28750/), [ds-lite.com](http://ds-lite.com/flash/g6-flash-3.htm)
 - DSi compatible: No
 
 # iTouch (itouchds.com)
@@ -144,22 +117,12 @@ This manufacturer is no longer around. You will no longer get official support f
 - Reviews: [DSDatabase](http://dsdatabase.org/showthread.php/295-iTouch2)
 - Purchase: [digitopz.com](http://www.digitopz.com/original-itouch2-enhanced-version-p-114.html)
 
-## iTouchDS
-- [Official website](https://web.archive.org/web/20101007203705/http://www.itouchds.com/)
-- [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18856-iTouch_loader_v3.8e.zip?raw=true)
-- DSi compatible: No
-- Reviews: [GBAtemp](https://gbatemp.net/threads/itouchds-review.90757/), [DCEMUuk](http://www.dcemu.co.uk/vbulletin/threads/110240-Review-iTouchDS-DS-Card-SLOT-1-MicroSDHC)
-<!-- - Purchase: [digitopz.com](http://www.digitopz.com/itouch-ds-cart-for-nds-nds-lite-p-52.html) (Out of Stock) -->
-
 # M3
 This manufacturer is no longer around. You will no longer get official support from the M3 team.
 
-## M3 Adaptador
+## M3 Adaptador (m3adaptador.com)
 - System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/M3Adaptador_v3.9_English.zip?raw=true)
 - Ripoff of the M3
-
-## M3 Adaptes
-- Fake M3 copycats. They use a clone loader similar to the DSTT.
 
 ## M3 DS Real/M3 Perfect (m3adapter.com)
 - [Official website](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/)
@@ -175,7 +138,7 @@ This manufacturer is no longer around. You will no longer get official support f
 - Review: [GBAtemp](https://gbatemp.net/threads/m3i-zero-review.182018/), [DSDatabase](http://dsdatabase.org/showthread.php/174-M3i-Zero)
 - Purchase: [nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=159), [dwtechz.com](http://www.dwtechz.com/m3i-zero-for-3ds-nds-ndsl-ndsi-dsixl-p-483.html)
 
-## M3 Simply (m3adapter.com)
+## M3 DS Simply (m3adapter.com)
 - [Official website](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/)
 - [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/R4%20(original),%20M3%20Simply/R4DS%20Wood%20R4%201.62.zip?raw=true)
 - Review: [GBAtemp](https://gbatemp.net/threads/m3-ds-simply-review.44631/)
