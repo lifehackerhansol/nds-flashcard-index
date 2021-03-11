@@ -80,6 +80,8 @@ This manufacturer is no longer around. You will no longer get official support f
 - Only models with [certain flash chips](https://gist.github.com/yuukieve/6b48f1bb8dd15136403c15c39fafdb42) are compatible with ntrboot
 - System files: [YSMenu](ysmenu)
 
+The following are 1:1 of the DSTT or DSTTi.
+
 ## DSTT Advance (dstt-adv.com)
 - [Official Website](http://web.archive.org/web/20121014090312/http://www.dstt-adv.com/)
 - This is a fake/clone card
