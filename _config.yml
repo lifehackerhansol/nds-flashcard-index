@@ -71,11 +71,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "NightScript"
+  name             : "lifehackerhansol"
   avatar           :
   bio              : "Guide Writer"
-  location         : "United States"
-  email            : "maorninja@outlook.com"
+  location         : "Canada"
+  email            : "hansol@hansol.ca"
   uri              :
   bitbucket        :
   codepen          :
@@ -83,7 +83,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "NightYoshi370"
+  github           : "hansoljin"
   google_plus      :
   keybase          :
   instagram        :
@@ -94,7 +94,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "nightscript"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
