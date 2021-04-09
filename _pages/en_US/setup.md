@@ -26,8 +26,8 @@ Once you've grabbed your System Files, go to [the TWiLight Menu++ setup page](tw
 # Ace3DS (ace3ds.com)
 
 ## Ace3DS+ (Ace3DS X)
-![Ace3DS+](/assets/images/ace3dsplus.jpg)
-![Ace3DS X](/assets/images/ace3dsx.jpg)
+![Ace3DS+](/assets/images/ace3dsplus.jpg =50x50)
+![Ace3DS X](/assets/images/ace3dsx.jpg =50x50)
 - [Official Website](http://www.ace3ds.com/)
 - DSi/3DS Compatible: Yes
 - [System Files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/Ace3DS+%20(X)/Ace3DS+%20(X)%20Wood%20R4%201.62.zip?raw=true)
