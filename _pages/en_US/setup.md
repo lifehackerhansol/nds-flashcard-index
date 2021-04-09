@@ -26,11 +26,11 @@ Once you've grabbed your System Files, go to [the TWiLight Menu++ setup page](tw
 # Ace3DS (ace3ds.com)
 
 ## Ace3DS+ (Ace3DS X)
+![Ace3DS+](/assets/ace3dsplus.jpg)
+![Ace3DS X](/assets/ace3dsx.jpg)
 - [Official Website](http://www.ace3ds.com/)
 - DSi/3DS Compatible: Yes
 - [System Files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/Ace3DS+%20(X)/Ace3DS+%20(X)%20Wood%20R4%201.62.zip?raw=true)
-- Reviews: [GBAtemp](https://gbatemp.net/threads/ace3ds-plus-review.331160/), [GBAtemp (Ace3DS X)](https://gbatemp.net/review/ace3dsx.667/)
-- Purchase: [digitopz.com](https://www.digitopz.com/buy-ace3ds-plus-flashcard-for-ninetendo-2ds-dsl-dsi-3dsxl-ll-p-1170.html), [mod3dscards.com](https://www.mod3dscard.com/home/8-ace3ds-plus-cheapest-r4-card.html), [r4wood.com](https://www.r4wood.com/en/home/25-ace3ds-plus-cheap-card-new-3ds-2ds-dsi-ds.html)
 - NTRBoot compatible (Ace3DS X has a hardware switch to enable NTRBoot)
 
 # Acekard (acekard.com)
@@ -62,14 +62,14 @@ This manufacturer is no longer around. You will no longer get official support f
 - DSi compatible: Up to (and including) v1.4.4
 - 3DS compatible: Up to (and including) v4.3.0
 - NTRBoot Compatible.
-- Reviews: [GBAtemp](https://gbatemp.net/threads/acekard-2i-review.122563/), [DrAqua](https://gbatemp.net/threads/acekard-2i-review.269055/), [KingdomBlade](https://gbatemp.net/threads/acekard-2i-review.171515/), [DSiHacker](http://dsihacker.com/acekard-2i.php)
-- Purchase: [nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=160), <!-- [r43ds.org](https://www.r43ds.org/products/Acekard-2i-For-DSi.html), --> [digitopz.com](http://www.digitopz.com/buy-acekard-2i-for-dsldsi-with-free-shipping-p-25.html)
+
 
 ### Firmware Upgrade instructions
 
 If you use a DS Lite, copy and run `dsl.nds`.     
 If you use a DSi under 1.4, copy and run `dsi.nds`.
 
+<!--
 # DSTT (ndstt.com)
 This manufacturer is no longer around. You will no longer get official support from the DSTT team.
 
@@ -281,5 +281,5 @@ The following are clones of the M3 cards.
 - Clone of the DSTT
 
 
-
+-->
 
