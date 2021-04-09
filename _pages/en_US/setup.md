@@ -24,81 +24,82 @@ Once you've grabbed your System Files, go to [the TWiLight Menu++ setup page](tw
 - Keep in mind that every R4 card (except for the original) is indeed a clone/fake, and [that (almost) all R4i-SDHC/R4iSDHC carts are the same.](https://gbatemp.net/threads/proof-that-almost-all-r4i-sdhc-r4isdhc-carts-are-literally-the-same-carts.514539/)
 
 # Ace3DS (ace3ds.com)
+- [Official Website](http://www.ace3ds.com/)
+
+## Ace3DS
+<img src="/assets/images/ace3ds.jpg"  width="120" height="120">
+- DSi/3DS Compatible: Yes
+- System files: [YSMenu](ysmenu)
 
 ## Ace3DS+ (Ace3DS X)
-![Ace3DS+](/assets/images/ace3dsplus.jpg =50x50)
-![Ace3DS X](/assets/images/ace3dsx.jpg =50x50)
-- [Official Website](http://www.ace3ds.com/)
+<img src="/assets/images/ace3dsplus.jpg"  width="120" height="120">
+<img src="/assets/images/ace3dsx.jpg"  width="120" height="120">
 - DSi/3DS Compatible: Yes
-- [System Files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/Ace3DS+%20(X)/Ace3DS+%20(X)%20Wood%20R4%201.62.zip?raw=true)
+- System files:[Wood R4](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/ace3ds.com/Ace3DS+_Wood_R4_1.62.7z?raw=true)
 - NTRBoot compatible (Ace3DS X has a hardware switch to enable NTRBoot)
 
 # Acekard (acekard.com)
 This manufacturer is no longer around. You will no longer get official support from the Acekard team.
+- [Official website (archived)](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
 
 ## Acekard (Acekard+)
-- [Official website (archived)](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
-- System Files: [English](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/AceKard%20(Plus)/AceKard%20(Plus)%20akMenu%204.07.zip?raw=true)
+- System files: [akMenu (English)](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/acekard.com/AceKard_(Plus)/AceKard_akMenu_4.07.7z?raw=true)
 - DSi compatible: No
-- Reviews: [GBAtemp (Original Acekard)](https://gbatemp.net/threads/acekard-review.39686/)
 
 ## Acekard RPG
-- [Official website](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
-- [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/AceKard%20RPG/AceKard%20RPG%20Wood%20R4%201.62.zip?raw=true)
+<img src="/assets/images/acekardrpg.jpg"  width="120" height="120">
+- System files:[Wood R4](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/AceKard_RPG/AceKard_RPG_Wood_R4_1.62?raw=true)
 - DSi compatible: No
-- Reviews: [GBAtemp](https://gbatemp.net/threads/acekard-r-p-g-review.68305/) & [DSDatabase](http://dsdatabase.org/showthread.php/551-AceKard-RPG)
 
 ## Acekard 2 (2.1)
-- [Official website](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
-- [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/AceKard%202,%202.1/AKAIO%201.9.0.zip?raw=true)
+<img src="/assets/images/acekard21.jpg"  width="120" height="120">
+- System files: [AKAIO](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/acekard.com/AceKard_2_2.1/AKAIO_1.9.0.7z?raw=true)
 - DSi compatible: No
-- Reviews: [GBAtemp](https://gbatemp.net/threads/acekard-2-review.79368/), [GBAtemp (Acekard 2.1)](https://gbatemp.net/threads/acekard-2-1-review.224477/)
-- Purchase: [r4ds-ds.com](http://www.r4ds-ds.com/products/Acekard-2.1-for-Nintendo-DS-Lite-p-166.html)
 
 ## Acekard 2i
-- [Official website](https://web.archive.org/web/20140209172112/http://www.acekard.com/)
-- [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/AceKard%202,%202.1/AKAIO%201.9.0.zip?raw=true)
-- [Firmware upgrade](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/AceKard%202i/AceKard%202i%203DS%20Firmware%20Update.zip?raw=true)
+<img src="/assets/images/acekard2i.jpg"  width="120" height="120">
+- System files: [AKAIO](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/acekard.com/AceKard_2i/AKAIO_1.9.0.7z?raw=true)
+- Firmware upgrade: (https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/AceKard_2i/AceKard_2i_3DS_Firmware_Update.7z?raw=true)
 - DSi compatible: Up to (and including) v1.4.4
 - 3DS compatible: Up to (and including) v4.3.0
 - NTRBoot Compatible.
-
 
 ### Firmware Upgrade instructions
 
 If you use a DS Lite, copy and run `dsl.nds`.     
 If you use a DSi under 1.4, copy and run `dsi.nds`.
 
-<!--
-# DSTT (ndstt.com)
+
+# DSTT (ndstt.com) (ndstt.net)
 This manufacturer is no longer around. You will no longer get official support from the DSTT team.
+- [Official website (archived)](https://web.archive.org/web/20150316073517/http://www.ndstt.net/)
 
 ## DSTT/DSTTi
-- [Official website](http://www.ndstt.net/)
-- DSi/3DS compatible: No
-- Reviews: [GBAtemp](https://gbatemp.net/threads/dstt-review.69748/)
-- Purchase: [nds-card.com](https://nds-card.com/ProShow.asp?ProID=157), <!-- [r43ds.org](https://www.r43ds.org/products/DSTT-Card.html) , --> [digitopz.com (DSTT)](http://www.digitopz.com/dstt-top-toy-ds-p-20.html), [digitopz.com DSTTi](http://www.digitopz.com/dstti-for-dsi-ds-support-sdhc-p-17.html)
+<img src="/assets/images/dstt.jpg"  width="120" height="120">
+<img src="/assets/images/dstti.jpg"  width="120" height="120">
+- DSi compatible: (DSTTi only, up to 1.4.1)
+- 3DS compatible: No
 - Only models with [certain flash chips](https://gist.github.com/yuukieve/6b48f1bb8dd15136403c15c39fafdb42) are compatible with ntrboot
 - System files: [YSMenu](ysmenu)
 
-The following are 1:1 of the DSTT or DSTTi.
+The following are 1:1 (direct) clones of the DSTT or DSTTi.
 
 ## DSTT Advance (dstt-adv.com)
-- [Official Website](http://web.archive.org/web/20121014090312/http://www.dstt-adv.com/)
+- [Official Website (archived)](http://web.archive.org/web/20121014090312/http://www.dstt-adv.com/)
 - This is a fake/clone card
 - System files: [YSMenu](ysmenu)
 
 ## DSTTi Gold (ndstti.cn)
-- [Official Website](http://web.archive.org/web/20111216144004/http://www.ndstti.cn/)
+- [Official Website (archived)](http://web.archive.org/web/20111216144004/http://www.ndstti.cn/)
 - This is a fake/clone card
 - System files: [YSMenu](ysmenu)
 
+<!--
 # EZ-Flash (ezflash.cn)
 
-## EZ-Flash V Plus
+## EZ-Flash V (Plus)
 - [Official website](http://www.ezflash.cn/)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23783-2.0RC20.zip?raw=true)
-- Reviews: [GBAtemp](https://gbatemp.net/threads/ez-flash-v-review.42399/) & [DSDatabase](http://dsdatabase.org/showthread.php/564-EZ-Flash-V)
 - DSi compatible: No
 
 ## EZ-Flash Vi
@@ -106,15 +107,11 @@ The following are 1:1 of the DSTT or DSTTi.
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/28259-3.0%20OB8.rar?raw=true)
 - [Firmware upgrade](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/26992-V108a.rar?raw=true)
 - DSi compatible: Yes
-- Reviews: [GBAtemp](https://gbatemp.net/threads/ez5i-long-term-review.239947/)
-- Purchase: [r4ds-ds.com](http://www.r4ds-ds.com/products/EZ-Flash-Vi-Simple-Edition-for-DS-DS-Lite-and-DSi-p-241.html)
 
 # G6 DS
 ## G6 DS Real (gbalpha.com)
 - [Official website](http://web.archive.org/web/20140102193632/http://g6flash.com/)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/23808-G6_M3DS-R_M74.zip?raw=true)
-- Reviews: [GBAtemp](https://gbatemp.net/threads/g6ds-real-review.49102/), [DSDatabase](http://dsdatabase.org/showthread.php/559-G6DS-Real) & [DCEMUuk](http://www.dcemu.co.uk/vbulletin/threads/63114-Review-G6-Flash-G6DS-Real-SLOT-1-(1GB))
-- Purchase: [digimartz.com](http://digimartz.com/g6ds-real-16gb-nds-backup-unit_p195.html)
 - DSi compatible: No
 
 # iTouch (itouchds.com)
@@ -122,29 +119,22 @@ The following are 1:1 of the DSTT or DSTTi.
 - [Official website](https://web.archive.org/web/20101007203705/http://www.itouchds.com/)
 - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/18856-iTouch_loader_v3.8e.zip?raw=true)
 - DSi compatible: Up to (and including) v1.4.0
-- Comparison: [iTouch2 vs Supercard DSONEi (GBAtemp)](https://gbatemp.net/threads/itouch2-vs-supercard-dsonei-review.165422/)
-- Reviews: [DSDatabase](http://dsdatabase.org/showthread.php/295-iTouch2)
-- Purchase: [digitopz.com](http://www.digitopz.com/original-itouch2-enhanced-version-p-114.html)
 
 # M3
 This manufacturer is no longer around. You will no longer get official support from the M3 team.
+- [Official website (archived)](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/)
 
 ## M3 DS Real/M3 Perfect (m3adapter.com)
-- [Official website](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/)
 - [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/M3%20DS%20Real%20(M3%20Perfect,%20M3i%20Zero)/M3DS%20Sakura%201.49a.zip?raw=true)
 - DSi/3DS compatible: No
-- Review: [GBAtemp](https://gbatemp.net/threads/m3ds-real-review.68277/), [DSDatabase](http://dsdatabase.org/showthread.php/548-M3DS-Real) ([Follow up](http://dsdatabase.org/showthread.php/307-M3-Real-M3-Sakura))
-- Purchase links: <!-- [r43ds.org](https://www.r43ds.org/products/M3-Real-Card-Rumble-Pack-Bundle.html), --> [r4ds-uk.com](http://www.r4ds-uk.com/m3-real-ds-card-with-rumble-pack-4gb-kingston-micro-sd-card_p474.html), [digimartz.com](http://www.digimartz.com/m3-ds-real-perfect-bundle-pack_p212.html), [dwtechz.com](http://www.dwtechz.com/m3dsm3-ds-real-rumble-pack-p-482.html)
 
 ## M3i Zero (m3adapter.com)
-- [Official website](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/)
 - [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/M3%20DS%20Real%20(M3%20Perfect,%20M3i%20Zero)/M3DS%20Sakura%201.49a.zip?raw=true)
 - DSi/3DS compatible: No
 - Review: [GBAtemp](https://gbatemp.net/threads/m3i-zero-review.182018/), [DSDatabase](http://dsdatabase.org/showthread.php/174-M3i-Zero)
 - Purchase: [nds-card.com](https://www.nds-card.com/ProShow.asp?ProID=159), [dwtechz.com](http://www.dwtechz.com/m3i-zero-for-3ds-nds-ndsl-ndsi-dsixl-p-483.html)
 
 ## M3 DS Simply (m3adapter.com)
-- [Official website (archived)](http://web.archive.org/web/20130822202911/http://www.m3adapter.com/)
 - [System files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/R4%20(original),%20M3%20Simply/R4DS%20Wood%20R4%201.62.zip?raw=true)
 - Review: [GBAtemp](https://gbatemp.net/threads/m3-ds-simply-review.44631/)
 - Clone of the R4 DS
@@ -193,13 +183,13 @@ The following are clones of the M3 cards.
 
 ## R4i (ndsill.net)
 - [Official Website (archived)](https://web.archive.org/web/20141023052404/http://ndsill.net/)
-<!-- - Firmwares: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_English.rar?raw=true)/[French](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_French.rar?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Spanish.rar?raw=true)/[Dutch](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Dutch.rar?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Italian.rar?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Korean.rar?raw=true)/[German](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_German.rar?raw=true)/[Japanese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Japanese.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Traditional_Chinese.rar?raw=true)] -->
+// - Firmwares: \[[English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_English.rar?raw=true)/[French](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_French.rar?raw=true)/[Spanish](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Spanish.rar?raw=true)/[Dutch](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Dutch.rar?raw=true)/[Italian](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Italian.rar?raw=true)/[Korean](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Korean.rar?raw=true)/[German](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_German.rar?raw=true)/[Japanese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Japanese.rar?raw=true)/[Simplified Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Simplified_Chinese.rar?raw=true)/[Traditional Chinese](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/ndsill_v1.45_Traditional_Chinese.rar?raw=true)]
 - System files: [YSMenu](ysmenu)
 - Clone of the DSTT
 
 ## R4iSDHC Revolution (r4ita.com)
 - [Official website](http://www.r4ita.com/) (discontinued)
-<!-- - System files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21703-r4ita_v2.05_English.rar?raw=true) -->
+// - System files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21703-r4ita_v2.05_English.rar?raw=true)
 - System files: [YSMenu](ysmenu)
 
 ## R4i Gold (r4i-gold.eu)
@@ -214,8 +204,6 @@ The following are clones of the M3 cards.
 ## R4i Gold 3DS Plus (r4ids.cn)
 - [Official Website](http://www.r4ids.cn/)
 - [System Files](https://github.com/hansoljin/Flashcard-Firmware-Archive/blob/master/R4iDS.cn/R4iDS.cn%20Wood%20R4%201.64.zip?raw=true)
-- Review: [GBAtemp](https://gbatemp.net/threads/review-r4i-gold-3ds-plus.488519/), [3ds-flashcard.cc](http://3ds-flashcard.cc/blog/r4i-gold-3ds-plus-review-is-it-better-to-buy-and-easier-to-use-than-r4i-gold-3ds/), [christcenteredgamer.com](https://www.christcenteredgamer.com/reviews/handhelds/3ds/7140-r4i-gold-plus-ds-flashcard)
-- Purchase: [nx-card.com](https://www.nx-card.com/home/7-r4i-gold-3ds-plus.html), [dgchips.com](https://www.dgchips.com/ntrboot-flashkarten/8-r4i-gold-3ds-rts-plusbestes-r4i-gold-fuer-3dsdsi.html), [3ds-flashcard.cc](http://3ds-flashcard.cc/home/72-r4i-gold-3ds-plus-.html), [nds-card.com](https://nds-card.com/ProShow.asp?ProID=575), [mod3dscard.com](https://www.mod3dscard.com/home/3-r4i-gold-3ds-rts-plusbest-r4i-gold-for-any-3ds-dsi.html), [modchipsdirect.com](http://www.modchipsdirect.com/r4i-gold-3ds-plus.html), [r4wood.com](https://www.r4wood.com/en/home/23-r4i-gold-3ds-plus-b9s-cfw-preflashed-r4i-gold-rts-card.html) <!--, [r43ds.org](https://www.r43ds.org/products/R4i-Gold-3DS-Plus.html) -->
 
 ## R4i Gold V1.4.1 (r4i-gold.com)
 - System files: [YSMenu](ysmenu)
@@ -269,14 +257,14 @@ The following are clones of the M3 cards.
 
 ## R4i YES (r4i-yes.com)
 - [Official website](http://www.r4i-yes.com) (discontinued)
-<!-- - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25202-r4i-yes.zip?raw=true) -->
+// - [System files](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/25202-r4i-yes.zip?raw=true)
 - System files: [YSMenu](ysmenu)
 - Purchase: [digitopz.com](http://www.digitopz.com/r4iyes-p-93.html)
 - Clone of the DSTT
 
 ## R4xDS (r4xds.com)
 - [Official website](http://www.r4xds.com/) (discontinued)
-<!-- - System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21745-R4X_v2.03_English.rar?raw=true) -->
+// - System Files: [English](https://github.com/DS-Homebrew/Flashcard-Firmware-Archive/blob/master/21745-R4X_v2.03_English.rar?raw=true)
 - System files: [YSMenu](ysmenu)
 - Clone of the DSTT
 
